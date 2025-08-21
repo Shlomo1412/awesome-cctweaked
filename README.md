@@ -31,6 +31,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
   - [Graphical Operating Systems](#graphical-operating-systems)
   - [Headless Operating Systems](#headless-operating-systems)
 - [Awesome People](#awesome-people)
+- [Awesome Communities](#awesome-communities)
 - [Credits](#credits)
   - [Author](#author-shlomo1412)
   - [Contributors](#contributors)
