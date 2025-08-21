@@ -14,6 +14,6 @@ Thank you for your interest in contributing to this project! Please follow these
 
 6. **Projects for ComputerCraft (that don't support modern CC: Tweaked) are not allowed.**
 
-7 **You can't add yourself as an awesome person**.
+7. **You can't add yourself as an awesome person**.
 
 Thank you for helping keep this list awesome and consistent!
