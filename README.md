@@ -75,6 +75,14 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/THEHHOY/MCHTTP-and-DNS/)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1389962676909899886)
 
+- [ECNet2](https://github.com/migeyel/ecnet) by PG2:31 [(aka. migeyel)](https://github.com/migeyel) - Encrypted Networking over Modem.
+
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/umnikos/hopper.lua)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1168339990070186056)
+
+- ModemShark by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - a tool to sniff modem packets being sent by nearby computers.
+
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/migeyel/ecnet)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020768938331754606)
+
 #### Peripheral managment
 
 - [Hopper.lua](https://github.com/umnikos/hopper.lua) by [umnikos](https://github.com/umnikos) - a cli CC program for the easy setup of complex item transportation pipelines. It supports wildcards, filters, transfer limits, many different peripherals, and more.
@@ -84,10 +92,6 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 - [CC Speaks](https://github.com/SquidDev-CC/cc-speaks) by [SquidDev](https://github.com/SquidDev-CC) - A very silly TTS server using espeak-ng for [Speakers](https://tweaked.cc/peripheral/speaker.html). (not built as an API library but as a web service)
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/SquidDev-CC/cc-speaks)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1040756494028779721)
-
-- ModemShark by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - a tool to sniff modem packets being sent by nearby computers.
-
-    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020768938331754606)
 
 #### Threads/Multitasking
 
@@ -126,6 +130,10 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 - [More Fonts](https://pinestore.cc/projects/37/more-fonts) by [Michiel](https://github.com/MichielP1807) - a library to print large text using teletext pixels with various fonts, sizes, and text wrapping and spacing options!
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1236332214321680505)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MichielP1807/more-fonts/)
+
+- [Bigfont](https://pastebin.com/3LfWxRWh) by Wojbie - Have you ever wanted to write something on computer screen in different font size? Now with magical 1.8+ features you can!
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020637420343009350)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/3LfWxRWh)
 
 
 #### AI (Yeah you heard right)
