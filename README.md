@@ -289,6 +289,8 @@ Balances ComputerCraft by making its recipes require Create materials!
 
 - [MISC](https://github.com/Storehaus/CC-MISC) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - Modular Item Storage and Crafting system
 
+    >MISC is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
+
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1061830961479831602)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Storehaus/CC-MISC)
 
 - [Turtle 3D Printer (C#)](https://discord.com/channels/477910221872824320/1158042129776508928) by [L3velDr4in](https://github.com/pre-alpha-final) - Print from png blueprints or scan terrain and reprint.
