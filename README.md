@@ -63,7 +63,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [Obsi 2](https://github.com/simadude/obsi2) by [Simadude](https://github.com/simadude) - a Lua library that was designed specifically for CC:Tweaked. Originally it was made as a game engine, but have refactored into a library for easier packaging.
 
-    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/simadude/obsi2/wiki) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/simadude/obsi2)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1268129893086920704)
+    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/simadude/obsi2/wiki)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/simadude/obsi2)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1268129893086920704)
 
 - [Xenon 2D Engine](https://github.com/SpartanSf/Xenon) by [SpartanSf (aka. SpSf)](https://github.com/SpartanSf) - The Xenon engine is focused for 2D games. It aims provides a feature-rich and easy to use interface for developing games.
 
@@ -82,6 +82,20 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 - ModemShark by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - a tool to sniff modem packets being sent by nearby computers.
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/migeyel/ecnet)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020768938331754606)
+
+#### 3D Renderers
+
+- [Pine3D](https://github.com/Xella37/Pine3D) by [Xella](https://github.com/Xella37) - The most known, iconic and effecient 3D renderer for CC.
+
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Xella37/Pine3D)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://pine3d.cc/docs/guide/1_gettingStarted)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/24/pine3d)  [![Badge](https://img.shields.io/badge/📎_View_its-Website-orange?logoColor=white)](https://pine3d.cc)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/rsA8sKAMFV)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1052272130655531089)
+
+- [C3D](https://github.com/9551-Dev/libC3D-dev) by [9551](https://github.com/9551-Dev)
+
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/9551-Dev/libC3D-dev)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://c3d.madefor.cc/)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/rsA8sKAMFV)
+
+- V3D by Shadyduck
+
+    [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/rsA8sKAMFV)
 
 #### Peripheral managment
 
