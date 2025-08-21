@@ -537,6 +537,8 @@ Easy to use with a neat UI, and ten pretty themes!
 
 - [Leveloper Software Discord Server](https://discord.gg/MuSMajUd) by Leveloper.
 
+- [Lua3D Discord Server](https://discord.gg/MjsNjK2psB) by Xella.
+
 - [CraftOS-PC/Phoenix Discord Server](https://discord.gg/v9yPf7qRDY) by JackMacWindows.
 
 - [ComputerCraft Forums](https://forums.computercraft.cc/).
