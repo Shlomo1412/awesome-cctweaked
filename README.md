@@ -115,10 +115,6 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1021014671274291251)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/SammyForReal/cc1f6973be9d99647953759e1eaaa759)
 
-- [Telem](https://github.com/cyberbit/telem) by [Cyberbit](https://github.com/cyberbit) - Trivial ETL Engine for Minecraft
-
-    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1178122406947192852)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://telem.cyberbit.dev/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/cyberbit/telem)
-
 - [Shrekbox](https://codeberg.org/ShreksHellraiser/shrekbox) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - 
 Find pixelbox incredibly useful, but wish you could get more functionality from it? So do ShreksHellraiser, so he's announcing a tentative preview of shrekbox.
 
@@ -147,7 +143,7 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 
 - [TELEM](https://pinestore.cc/projects/14/telem) by [Cyberbit](https://pinestore.cc/user/372183766464200704) - a modular, modern “Trivial ETL Engine for Minecraft” that lets you extract data from in-game storage and machinery, transform it with middleware (e.g., calculating rates or averages), and output it via dashboards, graphs, or secure networks—all within ComputerCraft.
 
-    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1178122406947192852)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/14/telem)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/cyberbit/telem)
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1178122406947192852)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/14/telem)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://telem.cyberbit.dev/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/cyberbit/telem)
 
 ## Mods and addons
 
