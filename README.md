@@ -146,6 +146,10 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1178122406947192852)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/14/telem)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://telem.cyberbit.dev/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/cyberbit/telem)
 
+- [Quanty](https://github.com/Shlomo1412/Quanty) by [Shlomo1412](https://github.com/Shlomo1412) - a simple Lua API library for ComputerCraft/CC: Tweaked and CCVS (CC-VS ShipAPI) that provides easy-to-use functions for working with quaternions and Euler angles.
+
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/Quanty)
+
 ## Mods and addons
 
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) by [seniorendi](https://modrinth.com/user/seniorendi) (aka. [Intelligence Modding](https://github.com/IntelligenceModding)) - a mod that adds many useful extensions for CC:Tweaked.
