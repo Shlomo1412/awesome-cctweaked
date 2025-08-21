@@ -130,7 +130,7 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 
 #### AI (Yeah you heard right)
 
-- [ollama-cc](https://github.com/EmmaKnijn/ollama-cc) by [Emma (aka. EmmaKnijin)](https://github.com/EmmaKnijn/) - A simple CC client for Ollama
+- [ollama-cc](https://github.com/EmmaKnijn/ollama-cc) by [Emma (aka. EmmaKnijn)](https://github.com/EmmaKnijn/) - A simple CC client for Ollama
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1390615965397553194)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/EmmaKnijn/ollama-cc)
 
@@ -416,7 +416,7 @@ JUMP HIGHER AND HIGHER UNTIL YOU [[die]]. *(<- Not even kidding. That's the orig
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1036382245516214302)  [![Badge](https://img.shields.io/badge/📎_View_its-Website-orange?logoColor=white)](https://youcube.madefor.cc/)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/CC-YouCube)
 
-- [Musicify](https://discord.com/channels/477910221872824320/1027958593137414184) by [Emma (aka. EmmaKnijin)](https://github.com/EmmaKnijn/) - the port of the awesome Computronics music player to modern CC, it now plays music in every version after 1.100.0, Try it out now!
+- [Musicify](https://discord.com/channels/477910221872824320/1027958593137414184) by [Emma (aka. EmmaKnijn)](https://github.com/EmmaKnijn/) - the port of the awesome Computronics music player to modern CC, it now plays music in every version after 1.100.0, Try it out now!
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1027958593137414184)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/knijn/musicify)
 
