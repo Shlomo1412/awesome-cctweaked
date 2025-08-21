@@ -399,7 +399,10 @@ JUMP HIGHER AND HIGHER UNTIL YOU [[die]]. *(<- Not even kidding. That's the orig
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/8/the-button)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MichielP1807/CC-Bored-Button)
 
-- [Racing Game](https://pinestore.cc/projects/167/racing-game) by [Remie](https://pinestore.cc/user/329631860219052032) - 
+- [Racing Game](https://pinestore.cc/projects/167/racing-game) by [Remie](https://pinestore.cc/user/329631860219052032) - a small game that's all about racing a little car through some checkpoints!
+
+    [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/167/racing-game)
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/remie92/Computer-Racer)
 
 ### Audio/Video Players
 
