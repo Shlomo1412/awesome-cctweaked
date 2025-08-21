@@ -183,7 +183,7 @@ Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies t
 - [SwitchCraft Peripherals](https://modrinth.com/mod/sc-peripherals) by [Lemmmy](https://modrinth.com/user/Lemmmy) - Custom peripherals for the SwitchCraft server, including 3D Printers in the style of OpenComputers.
 
     >Note: This mod is archived.
-    
+
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/sc-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/sc-peripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://docs.sc3.io/features/sc-peripherals.html)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.com/invite/JxM3NxZ)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SwitchCraftCC/sc-peripherals)
 
 - [CC:C Bridge](https://modrinth.com/mod/cccbridge) by [Sammy](https://modrinth.com/user/Sammy) - Adds compatibility between CC: Tweaked and Create through more peripherals!
@@ -512,6 +512,22 @@ Easy to use with a neat UI, and ten pretty themes!
 - [SirEdvin](https://modrinth.com/user/SirEdvin)
 
 - [TechTastic](https://modrinth.com/user/TechTastic)
+
+## Awesome Communities
+
+- [MCCM (Minecraft Computer Mods) Discord Server](https://discord.computercraft.cc/) by HydroNitrogen.
+
+- [PineStore Discord Server](https://discord.gg/NteV9fDQeS) by Xella.
+
+- [Pyroxienum Discord Server](https://discord.gg/dvpd49Zxf7) by NyoriE.
+
+- [Leveloper Software Discord Server](https://discord.gg/MuSMajUd) by Leveloper.
+
+- [CraftOS-PC/Phoenix Discord Server](https://discord.gg/v9yPf7qRDY) by JackMacWindows.
+
+- [ComputerCraft Forums](https://forums.computercraft.cc/).
+
+- [PineStore](https://pinestore.cc) by Xella.
 
 ## Credits
 
