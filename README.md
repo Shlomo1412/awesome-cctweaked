@@ -11,8 +11,10 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
   - [UI Frameworks](#ui-frameworks)
   - [2D Game development](#2d-game-development)
   - [Networking](#networking)
+  - [3D Renderers](#3d-renderers)
   - [Peripheral managment](#peripheral-managment)
   - [Threads/Multitasking](#threadsmultitasking)
+  - [Encryption](#encryption)
   - [Teltext Renderers](#teltext-renderers)
   - [Fonts](#fonts)
   - [AI](#ai-yeah-you-heard-right)
@@ -121,6 +123,15 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020785201393172510)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)
 
+#### Encryption
+
+- [Advanced Encryption Standard (AES) library](https://gist.github.com/afonya2/489c3306a7d85f8f9512df321d904dbb) by [afonya2](https://gist.github.com/afonya2) - an AES implementation for CC: Tweaked.
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1207425248501178378)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/afonya2/489c3306a7d85f8f9512df321d904dbb)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://gist.github.com/afonya2/489c3306a7d85f8f9512df321d904dbb#file-docs-md)
+
+- [SHA256/HMAC/PBKDF2](https://pastebin.com/6UV4qfNF) by [Anavrins](https://pastebin.com/u/Anavrins) - SHA-256, HMAC and PBKDF2 functions in ComputerCraft.
+
+    [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/6UV4qfNF)
 
 #### Teltext Renderers
 
@@ -471,6 +482,10 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/34/herobrine)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/Herobrine/)  [![Badge](https://img.shields.io/badge/Demo-Video-red?logo=youtube&logoColor=white)](https://youtu.be/kxfiFJnY4kY)
 
+- [Astronaut](https://youtu.be/IBkzQSVgDXg) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123)
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1409343364251390002)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/Astronaut/releases/latest)  [![Badge](https://img.shields.io/badge/Demo-Video-red?logo=youtube&logoColor=white)](https://youtu.be/IBkzQSVgDXg)
+
 - [CCMaps](https://pinestore.cc/projects/66/ccmaps) by [Cyberbit](https://pinestore.cc/user/372183766464200704) - A proof-of-concept vector map viewer. Requires HTTP.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/66/ccmaps)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/cyberbit/b64e2e04b1006778b9077553768e07f4)
@@ -540,6 +555,8 @@ Easy to use with a neat UI, and ten pretty themes!
 - [SirEdvin](https://modrinth.com/user/SirEdvin)
 
 - [TechTastic](https://modrinth.com/user/TechTastic)
+
+- [Emma (aka. EmmaKnijn)](https://github.com/EmmaKnijn/)
 
 ## Awesome Communities
 
