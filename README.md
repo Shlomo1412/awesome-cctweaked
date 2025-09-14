@@ -247,6 +247,14 @@ CC integration for Simple Shops
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-drones)  [![Badge](https://img.shields.io/badge/Donate_on-Ko--Fi-critical?logo=kofi&logoColor=white)](https://ko-fi.com/acrogg)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/JSJBDEV/CCDrones)
 
+- [CC: Drones+](https://modrinth.com/mod/ccdrones+) by [minecraftbossdj](https://modrinth.com/user/minecraftbossdj) (Original Creator: [JSJBDEV](https://github.com/JSJBDEV)) - A fork of [CC: Drones](https://modrinth.com/mod/cc-drones), Originally created by [JSJBDEV](https://github.com/JSJBDEV).
+
+    [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ccdrones+)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/minecraftbossdj/CCDrones/)  [![Badge](https://img.shields.io/badge/Original-Mod-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-drones)
+
+- [AC-Drones](https://modrinth.com/mod/ac-drones) by [qrmcat](https://modrinth.com/user/qrmcat) - Adds CC:Tweaked-powered programmable drone.
+
+    [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ac-drones)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/ApioCraft/ac-drones/wiki/Drone-API)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ApioCraft/ac-drones)
+
 - [CC: Link](https://modrinth.com/mod/cc-link) by [minecraftbossdj](https://modrinth.com/user/minecraftbossdj) - 
 a interesting take and a reimagining of Plethora, for forge.
 
