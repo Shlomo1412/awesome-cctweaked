@@ -484,6 +484,10 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/59/quartz-audio-player)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Ale32bit/Quartz)
 
+- [Pocketbox](https://github.com/windclan/pocketbox) by [WindClan (aka. Ping On Reply)](https://github.com/windclan) - a DFPWM player that plays music in playlists. It goes through all the music specified in your configuration file.
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1118004613950488625)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/145/pocketbox)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/windclan/pocketbox)    
+
 ### AI
 
 - [Shape AI](https://pastebin.com/Vs9WGYtu) by Kazza - Computercraft Perceptron AI
