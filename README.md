@@ -218,7 +218,8 @@ Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies t
 
 - [SwitchCraft Peripherals](https://modrinth.com/mod/sc-peripherals) by [Lemmmy](https://modrinth.com/user/Lemmmy) - Custom peripherals for the SwitchCraft server, including 3D Printers in the style of OpenComputers.
 
-    >Note: This mod is archived.
+    > [!NOTE]
+    > This mod is archived.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/sc-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/sc-peripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://docs.sc3.io/features/sc-peripherals.html)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.com/invite/JxM3NxZ)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SwitchCraftCC/sc-peripherals)
 
@@ -339,9 +340,10 @@ Balances ComputerCraft by making its recipes require Create materials!
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020799884334477467)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/H2ArwWM1)
 
-- [MISC](https://github.com/Storehaus/CC-MISC) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - Modular Item Storage and Crafting system
+- [MISC](https://github.com/Storehaus/CC-MISC) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - Modular Item Storage and Crafting system.
 
-    >MISC is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
+    > [!NOTE]
+    > MISC is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1061830961479831602)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Storehaus/CC-MISC)
 
@@ -429,7 +431,8 @@ JUMP HIGHER AND HIGHER UNTIL YOU [[die]]. *(<- Not even kidding. That's the orig
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/184/car-dating-simulator)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/piguman3/CarDatingSimBrainfuckPineJam2025EditionLimited)
 
-    >Note: this Game requires 1.8MB of storage, meaning it won't run on in-game computer unless you change the config.
+    > [!IMPORTANT]
+    > This Game requires 1.8MB of storage, meaning it won't run on in-game computer unless you change the config.
 
 - [Samurai Salad](https://pinestore.cc/projects/5/samurai-salad) by [Michiel](https://pinestore.cc/user/134008375984914432) - A game inspired by the mobile game Fruit Ninja, where you slice various fruits (including pineapples 🍍️) to gain points, but you have to avoid the bombs to stay alive.
 
