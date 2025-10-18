@@ -606,6 +606,8 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 - [Emma (aka. EmmaKnijn)](https://github.com/EmmaKnijn/)
 
+- [Tomodachi94](https://github.com/tomodachi94)
+
 - FLESHPRIS0N
 
 ## Awesome Communities
