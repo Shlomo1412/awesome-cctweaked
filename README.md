@@ -203,6 +203,16 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/toms-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/toms-peripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/tom5454/Toms-Peripherals/wiki)  [![Badge](https://img.shields.io/badge/Donate_on-Patreon-000000?logo=Patreon&logoColor=white)](https://www.patreon.com/tom5454)  [![Badge](https://img.shields.io/badge/Donate_on-Ko--Fi-critical?logo=kofi&logoColor=white)](https://ko-fi.com/tom5454)  [![Badge](https://img.shields.io/badge/❤️_Sponsor_on-GitHub-000000?logoColor=white)](https://github.com/sponsors/tom5454) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tom5454/Toms-Peripherals)
 
+- [CC: DirectGPU](https://github.com/tiktop101/CC-DirectGPU-Mod) by tom (aka. [tiktop101](https://github.com/tiktop101)) - High-performance ComputerCraft peripheral for rendering full RGB graphics directly to monitors.
+
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tiktop101/CC-DirectGPU-Mod)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1432013639132647455)  [![Badge](https://img.shields.io/badge/Get_it_on-GitHub-black?logo=github)](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar)
+
+> [!NOTE]
+> This mod is currently only avilable to download from [this post](https://discord.com/channels/477910221872824320/143201363913264745) or from its [GitHub Repo](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar).
+
+
+
+
 - [CC: Androids](https://modrinth.com/mod/cc-androids) by [ThunderBear](https://modrinth.com/user/ThunderBear) - Programmable Androids for minecraft.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-androids)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/ThunderBear2006/CC-Androids/wiki) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tom5454/Toms-Peripherals)
