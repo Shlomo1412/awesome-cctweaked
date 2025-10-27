@@ -28,6 +28,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
   - [Games](#games)
   - [Audio/Video Players](#audiovideo-players)
   - [AI](#ai)
+  - [Web , internet, and communication](#web--internet-and-communication)
   - [Demoscene & Proof-of-Concept Projects](#demoscene--proof-of-concept-projects)
 - [Operating Systems](#operating-systems)
   - [Graphical Operating Systems](#graphical-operating-systems)
@@ -512,6 +513,13 @@ Easy to use with a neat UI, and ten pretty themes!
 - [Shape AI](https://pastebin.com/Vs9WGYtu) by Kazza - Computercraft Perceptron AI
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1343763007016144926)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/Vs9WGYtu)
+
+
+### Web , internet, and communication
+
+- [Craft-Web](https://github.com/Elemnto56/Craft-Web) by jjcthe_ (aka. [Elemnto56](https://github.com/Elemnto56)) - A web broswer for CC:T.
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1432089438435016876)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Elemnto56/Craft-Web)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://elemnto56.github.io/Craft-Web/)
 
 ### [Demoscene](https://en.wikipedia.org/wiki/Demoscene) & Proof-of-Concept Projects
 
