@@ -82,7 +82,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [ECNet2](https://github.com/migeyel/ecnet) by PG2:31 [(aka. migeyel)](https://github.com/migeyel) - Encrypted Networking over Modem.
 
-    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/umnikos/hopper.lua)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1168339990070186056)
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/migeyel/ecnet)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1168339990070186056)
 
 - ModemShark by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - a tool to sniff modem packets being sent by nearby computers.
 
