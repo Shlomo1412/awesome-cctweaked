@@ -106,7 +106,11 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [Hopper.lua](https://github.com/umnikos/hopper.lua) by [umnikos](https://github.com/umnikos) - a cli CC program for the easy setup of complex item transportation pipelines. It supports wildcards, filters, transfer limits, many different peripherals, and more.
 
-    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/umnikos/hopper.lua)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1240740777429172225)  [![Badge](https://img.shields.io/badge/Simplified-Version-orange?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1163961131178676255)
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/umnikos/hopper.lua)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1240740777429172225)  [![Badge](https://img.shields.io/badge/Simplified-Version-orange?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1434249907450941550)
+
+- [Open Inventory Library (OIL)](https://github.com/afonya2/CC-OpenInvLib) by afo nya~ :3 (aka. [afonya2](https://github.com/afonya2)) - A modern inventory library for CC: Tweaked, With a command line utility called `ChestPart`.
+
+    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/afonya2/CC-OpenInvLib)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1240740777429172225)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/afonya2/CC-OpenInvLib/blob/main/README.md)
 
 - [CC Speaks](https://github.com/SquidDev-CC/cc-speaks) by [SquidDev](https://github.com/SquidDev-CC) - A very silly TTS server using espeak-ng for [Speakers](https://tweaked.cc/peripheral/speaker.html). (not built as an API library but as a web service)
 
