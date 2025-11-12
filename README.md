@@ -319,6 +319,12 @@ Balances ComputerCraft by making its recipes require Create materials!
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/metaphysics)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/KallenKas024/Metaphysics/wiki)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/KallenKas024/Metaphysics)
 
+- [CC: Lectern Hub](https://modrinth.com/mod/cc-lectern-hub) by [minecraftbossdj](https://github.com/minecraftbossdj) - A tiny mod allowing the lectern to be a peripheral hub.
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1437946565997105233)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-lectern-hub)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/minecraftbossdj/CC-Lectern-Hub/)
+
+
+
 ## External tools, websites and events
 
 - [CraftOS-PC](https://www.craftos-pc.cc/) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - A fast and feature-filled ComputerCraft emulator. Run CC Tweaked programs without minecraft!
