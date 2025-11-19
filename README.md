@@ -192,6 +192,8 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 
 ## Mods and addons
 
+### Mods
+
 - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals) by [seniorendi](https://modrinth.com/user/seniorendi) (aka. [Intelligence Modding](https://github.com/IntelligenceModding)) - a mod that adds many useful extensions for CC:Tweaked.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/advancedperipherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://docs.advanced-peripherals.de/latest/)  [![Badge](https://img.shields.io/badge/Donate_on-Patreon-000000?logo=Patreon&logoColor=white)](https://www.patreon.com/profile/creators?u=50099915)  [![Badge](https://img.shields.io/badge/Donate_on-Ko--Fi-critical?logo=kofi&logoColor=white)](https://ko-fi.com/srendi)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/IntelligenceModding/AdvancedPeripherals)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.com/invite/JGWkTy6PG8)
@@ -323,7 +325,19 @@ Balances ComputerCraft by making its recipes require Create materials!
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1437946565997105233)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-lectern-hub)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/minecraftbossdj/CC-Lectern-Hub/)
 
+### Datapacks
 
+- [CC: Advanced Math](https://github.com/TechTastic/Advanced-Math) by [TechTastic](https://github.com/TechTastic/) - So [TechTastic](https://github.com/TechTastic/), after the making of the [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), realized he could also do Matrices. Then he made his own [PID controller](https://discord.com/channels/477910221872824320/1440340840625995889).
+Then he had an epiphany. Why not combine these advanced mathematical libraries into one singular datapack?
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1440587036988805203)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/datapack/advanced_math)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/advanced-math)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://techtastic.github.io/Advanced-Math/index.html)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/TechTastic/Advanced-Math)
+
+> [!NOTE]
+> This is a combination of [TechTastic](https://github.com/TechTastic/Advanced-Math)'s 3 projects: 
+[PID controller](https://discord.com/channels/477910221872824320/1440340840625995889), [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), and Matrices API.
+
+> [!IMPORTANT]
+> All of the 3 projects above was created with the help of [getItemFromBlock](https://github.com/getItemFromBlock). And the "Spark" came from [me](https://github.com/Shlomo1412), though [tastic](https://github.com/TechTastic/Advanced-Math) ended up not using my code.
 
 ## External tools, websites and events
 
@@ -641,6 +655,8 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 - [Tomodachi94](https://github.com/tomodachi94)
 
 - FLESHPRIS0N
+
+- [TechTastic](https://github.com/TechTastic)
 
 ## Awesome Communities
 
