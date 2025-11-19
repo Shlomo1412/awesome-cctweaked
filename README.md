@@ -20,6 +20,8 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
   - [AI](#ai-yeah-you-heard-right)
   - [Other](#other)
 - [Mods and addons](#mods-and-addons)
+  - [Mods](#mods)
+  - [Datapacks](#datapacks)
 - [External tools, websites and events](#external-tools-websites-and-events)
 - [Programs](#programs)
   - [Storage, Turtles, and Peripherals](#storage-turtles-and-peripherals)
@@ -337,7 +339,7 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 [PID controller](https://discord.com/channels/477910221872824320/1440340840625995889), [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), and Matrices API.
 
 > [!IMPORTANT]
-> All of the 3 projects above was created with the help of [getItemFromBlock](https://github.com/getItemFromBlock). And the "Spark" came from [me](https://github.com/Shlomo1412), though [tastic](https://github.com/TechTastic/Advanced-Math) ended up not using my code.
+> All of the 3 projects above was created with the help of [getItemFromBlock](https://github.com/getItemFromBlock), and the "Spark" came from [me](https://github.com/Shlomo1412), though [tastic](https://github.com/TechTastic/Advanced-Math) ended up not using my code.
 
 ## External tools, websites and events
 
