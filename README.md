@@ -48,7 +48,8 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 </details>
 
 ## Libraries
-#### UI Frameworks
+
+### UI Frameworks
 
 - [Basalt](https://basalt.madefor.cc/) by [Pyroxenium (aka. Robert Jelic)](https://github.com/Pyroxenium) - a modern, fast and well-known UI Framework.
 
@@ -66,7 +67,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://phoenix-computercraft.github.io/CCKit2/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Phoenix-ComputerCraft/CCKit2/)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1357889734533185597)
 
-#### 2D Game development
+### 2D Game development
 
 - [Obsi 2](https://github.com/simadude/obsi2) by [Simadude](https://github.com/simadude) - a Lua library that was designed specifically for CC:Tweaked. Originally it was made as a game engine, but have refactored into a library for easier packaging.
 
@@ -76,7 +77,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/SpartanSf/Xenon)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1389216394205466654)
 
-#### Networking
+### Networking
 
 - [MCHTTP-and-DNS](https://github.com/THEHHOY/MCHTTP-and-DNS) by [THEHHOY](https://github.com/THEHHOY) - With MCHTTP you can request data, post data and you can make a web browser for it . You can control your world with MCHTTP. MCHTTP is pretty easy to understand.
 
@@ -90,7 +91,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/migeyel/ecnet)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020768938331754606)
 
-#### 3D Renderers
+### 3D Renderers
 
 - [Pine3D](https://github.com/Xella37/Pine3D) by [Xella](https://github.com/Xella37) - The most known, iconic and effecient 3D renderer for CC.
 
@@ -104,7 +105,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/rsA8sKAMFV)
 
-#### Peripheral managment
+### Peripheral managment
 
 - [Hopper.lua](https://github.com/umnikos/hopper.lua) by [umnikos](https://github.com/umnikos) - a cli CC program for the easy setup of complex item transportation pipelines. It supports wildcards, filters, transfer limits, many different peripherals, and more.
 
@@ -118,7 +119,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/SquidDev-CC/cc-speaks)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1040756494028779721)
 
-#### Threads/Multitasking
+### Threads/Multitasking
 
 - [Taskmaster](https://gist.github.com/MCJack123/1678fb2c240052f1480b07e9053d4537) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - A simple and highly flexible task runner/coroutine manager.
 
@@ -132,7 +133,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020785201393172510)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)
 
-#### Encryption
+### Encryption
 
 - [Advanced Encryption Standard (AES) library](https://gist.github.com/afonya2/489c3306a7d85f8f9512df321d904dbb) by [afonya2](https://gist.github.com/afonya2) - an AES implementation for CC: Tweaked.
 
@@ -142,7 +143,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/6UV4qfNF)
 
-#### Teltext Renderers
+### Teltext Renderers
 
 - [Pixelbox_lite](https://github.com/9551-Dev/pixelbox_lite) by [9551_dev](https://github.com/9551-Dev) - Very fast CC library used for rendering graphics with teletext characters (\128-\159)
 
@@ -154,12 +155,11 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1021014671274291251)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/SammyForReal/cc1f6973be9d99647953759e1eaaa759)
 
-- [Shrekbox](https://codeberg.org/ShreksHellraiser/shrekbox) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - 
-Find pixelbox incredibly useful, but wish you could get more functionality from it? So do ShreksHellraiser, so he's announcing a tentative preview of shrekbox.
+- [Shrekbox](https://codeberg.org/ShreksHellraiser/shrekbox) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - Find pixelbox incredibly useful, but wish you could get more functionality from it? So do ShreksHellraiser, so he's announcing a tentative preview of shrekbox.
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1405595757075234886)  [![Badge](https://img.shields.io/badge/Open-Source-blue?logo=codeberg&logoColor=white)](https://codeberg.org/ShreksHellraiser/shrekbox)
 
-#### Fonts
+### Fonts
 
 - [More Fonts](https://pinestore.cc/projects/37/more-fonts) by [Michiel](https://github.com/MichielP1807) - a library to print large text using teletext pixels with various fonts, sizes, and text wrapping and spacing options!
 
@@ -169,16 +169,13 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020637420343009350)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/3LfWxRWh)
 
-
-#### AI (Yeah you heard right)
+### AI (Yeah you heard right)
 
 - [ollama-cc](https://github.com/EmmaKnijn/ollama-cc) by [Emma (aka. EmmaKnijn)](https://github.com/EmmaKnijn/) - A simple CC client for Ollama
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1390615965397553194)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/EmmaKnijn/ollama-cc)
 
-
-    
-#### Other
+### Other
 
 - Trainlib by **root@dev:~# python3 mourn_sc3.py** *(<- That's the name, I promise)* - makes it easier to handle Create's train schedules using a pseudo-OOP syntax.
 
@@ -219,9 +216,6 @@ Find pixelbox incredibly useful, but wish you could get more functionality from 
 > [!NOTE]
 > This mod is currently only avilable to download from [this post](https://discord.com/channels/477910221872824320/143201363913264745) or from its [GitHub Repo](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar).
 
-
-
-
 - [CC: Androids](https://modrinth.com/mod/cc-androids) by [ThunderBear](https://modrinth.com/user/ThunderBear) - Programmable Androids for minecraft.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-androids)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/ThunderBear2006/CC-Androids/wiki) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tom5454/Toms-Peripherals)
@@ -237,29 +231,26 @@ Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies t
 
 - [SwitchCraft Peripherals](https://modrinth.com/mod/sc-peripherals) by [Lemmmy](https://modrinth.com/user/Lemmmy) - Custom peripherals for the SwitchCraft server, including 3D Printers in the style of OpenComputers.
 
-    
-
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/sc-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/sc-peripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://docs.sc3.io/features/sc-peripherals.html)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.com/invite/JxM3NxZ)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SwitchCraftCC/sc-peripherals)
 
 > [!NOTE]
 > This mod is archived.
 
 - [CC:C Bridge](https://modrinth.com/mod/cccbridge) by [Sammy](https://modrinth.com/user/Sammy) - Adds compatibility between CC: Tweaked and Create through more peripherals!
-    
+
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cccbridge)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/cccbridgeripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://cccbridge.kleinbox.dev/)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.com/servers/minecraft-computer-mods-477910221872824320)  [![Badge](https://img.shields.io/badge/Donate_on-Ko--Fi-critical?logo=kofi&logoColor=white)](https://ko-fi.com/sammykoch)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tweaked-programs/cccbridge)
 
-- [CC: VS](https://modrinth.com/mod/cc-vs) by [TechTastic](https://modrinth.com/user/TechTastic) - 
+- [CC: VS](https://modrinth.com/mod/cc-vs) by [TechTastic](https://modrinth.com/user/TechTastic) - A simple ComputerCraft x Valkyrien Skies integration addon
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-vs)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/cc-vs)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/TechTastic/CC-VS/wiki)    [![Badge](https://img.shields.io/badge/Buy_TechTastic_a-Coffee-ffdd00?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/techtastic)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/TechTastic/CC-VS)  
 
-- [CC Shops](https://modrinth.com/mod/cc-shops) by [TechTastic](https://modrinth.com/user/TechTastic) - 
-CC integration for Simple Shops
+- [CC Shops](https://modrinth.com/mod/cc-shops) by [TechTastic](https://modrinth.com/user/TechTastic) - CC integration for Simple Shops
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-shops)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/cc-shops)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/TechTastic/CC-Shops/wiki)    [![Badge](https://img.shields.io/badge/Buy_TechTastic_a-Coffee-ffdd00?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/techtastic)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/TechTastic/CC-Shops)
 
 - [Ducky Peripherals](https://modrinth.com/mod/ducky-periphs) by [SamsTheNerd](https://modrinth.com/user/SamsTheNerd) - A general peripheral addon mod for ComputerCraft Restitched and Tweaked.
 
-    [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ducky-periphs)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/ducky-periphs)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/SamsTheNerd/ducky-periphs/wiki)  [![Badge](https://img.shields.io/badge/Donate_on-Ko--Fi-critical?logo=kofi&logoColor=white)](https://ko-fi.com/samsthenerd)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SamsTheNerd/ducky-periphs)    
+    [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ducky-periphs)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/ducky-periphs)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/SamsTheNerd/ducky-periphs/wiki)  [![Badge](https://img.shields.io/badge/Donate_on-Ko--Fi-critical?logo=kofi&logoColor=white)](https://ko-fi.com/samsthenerd)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SamsTheNerd/ducky-periphs)
 
 - [More Peripherals](https://modrinth.com/mod/more-peripherals) by [RoseIsProot](https://modrinth.com/user/RoseIsProot) - Adds new and interresting peripherals for CC:Tweaked.
 
@@ -277,8 +268,7 @@ CC integration for Simple Shops
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ac-drones)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/ApioCraft/ac-drones/wiki/Drone-API)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ApioCraft/ac-drones)
 
-- [CC: Link](https://modrinth.com/mod/cc-link) by [minecraftbossdj](https://modrinth.com/user/minecraftbossdj) - 
-a interesting take and a reimagining of Plethora, for forge.
+- [CC: Link](https://modrinth.com/mod/cc-link) by [minecraftbossdj](https://modrinth.com/user/minecraftbossdj) - a interesting take and a reimagining of Plethora, for forge.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-link)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/minecraftbossdj/CC-Link/wiki)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/minecraftbossdj/CC-Link)
 
@@ -290,8 +280,7 @@ a interesting take and a reimagining of Plethora, for forge.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cctech)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/ShreksHellraiser/cctech/wiki)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ShreksHellraiser/cctech)
 
-- [Create: CC Better Recipes](https://modrinth.com/mod/create-ccbr) by [the-can-of-soup](https://modrinth.com/user/the-can-of-soup) - 
-Balances ComputerCraft by making its recipes require Create materials!
+- [Create: CC Better Recipes](https://modrinth.com/mod/create-ccbr) by [the-can-of-soup](https://modrinth.com/user/the-can-of-soup) - Balances ComputerCraft by making its recipes require Create materials!
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/create-ccbr)
 
@@ -335,7 +324,7 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1440587036988805203)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/datapack/advanced_math)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/advanced-math)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://techtastic.github.io/Advanced-Math/index.html)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/TechTastic/Advanced-Math)
 
 > [!NOTE]
-> This is a combination of [TechTastic](https://github.com/TechTastic/Advanced-Math)'s 3 projects: 
+> This is a combination of [TechTastic](https://github.com/TechTastic/Advanced-Math)'s 3 projects:
 [PID controller](https://discord.com/channels/477910221872824320/1440340840625995889), [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), and Matrices API.
 
 > [!IMPORTANT]
@@ -362,7 +351,7 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 - [CC: Blockly Editor](https://pinestore.cc/projects/72/cc-blockly-editor) by [st sarxzer XI](https://pinestore.cc/user/687947852478939188) - a visual code editor for ComputerCraft and ComputerCraft:Tweaked. This Blockly application allows you to create Lua scripts for ComputerCraft using a visual block-based interface.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/72/cc-blockly-editor)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Sarxzer/cc-blockly-editor)
-    
+
 - [Charmap](https://charmap.madefor.cc/) by [ShreksHellraiser](https://github.com/ShreksHellraiser) - a simple, web-based character map tailored for ComputerCraft: it lets you select a character (e.g. "0"), preview it with customizable foreground and background colors, and copy it to your clipboard in one click—perfect for crafting colored text or interfaces in-game.
 
     [![Badge](https://img.shields.io/badge/🌐_Visit-yellow?logoColor=white)](https://charmap.madefor.cc/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ShreksHellraiser/cc-charmap)
@@ -405,6 +394,7 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ShrekshellraiserCC/shrekword)
 
 ### Utility
+
 - [Github Downloader](https://pinestore.cc/projects/157/github-downloader-on-cc) by [Tom](https://pinestore.cc/user/787626842684915742) - A user-friendly GUI tool for downloading entire GitHub repositories directly to your ComputerCraft device.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/157/github-downloader-on-cc)
@@ -544,7 +534,6 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1343763007016144926)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/Vs9WGYtu)
 
-
 ### Web , internet, and communication
 
 - [Craft-Web](https://github.com/Elemnto56/Craft-Web) by jjcthe_ (aka. [Elemnto56](https://github.com/Elemnto56)) - A web broswer for CC:T.
@@ -609,15 +598,13 @@ Easy to use with a neat UI, and ten pretty themes!
 
 > A comprehensive web-based development suite for **CC: Tweaked** by [Shlomo1412](https://github.com/Shlomo1412). This project provides a toolset to streamline ComputerCraft application development.
 
-
-
 **XCC** includes UI generator with support for multiple UI frameworks ([Basalt](https://basalt.madefor.cc/), [PixelUI](https://shlomo1412.github.io/pixelui-website/), and [PrimeUI](https://mcjack123.github.io/PrimeUI/)), advanced components like `TreeView` and `Chart` widgets, and a dedicated NFP picture editor. The toolset generates clean, production-ready `Lua`/`XML`/`JSON`/`XCC` code and supports project management through our custom `.xcc` file format.
 
 **The project is now available as an open-source solution for CC: Tweaked developers.**
 
 As always, feedback is welcome. Feel free to point out bugs, open issues, and suggest a feature/new tool.
 
-### Current Tools:
+### Current Tools
 
 - Basalt UI Designer
 - PixelUI UI Designer
@@ -626,7 +613,7 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 ## Awesome People
 
->People who have helped or been significantly involved in the CC: Tweaked community. Note that it's only my opinion, and mine only.    
+> People who have helped or been significantly involved in the CC: Tweaked community. Note that it's only my opinion, and mine only.
 
 - [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123)
 
@@ -680,23 +667,23 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 ## Credits
 
-#### Author: [Shlomo1412](https://github.com/Shlomo1412)
+### Author: [Shlomo1412](https://github.com/Shlomo1412)
 
-#### People Who Helped:
+### People Who Helped
 
 - FLESHPRIS0N - Made the DeepWikis for Basalt and PixelUI, along with their Shield Badges.
 
 ### Contributors
 
->Insert names here
+> Insert names here
 
-### Tools Used:
+### Tools Used
 
 - [Shieldy](https://shlomo1412.github.io/shieldy-site/) by [Shlomo1412](https://github.com/Shlomo1412) - Used to create the Shield Badges
 
 - [SimpleIcons.org](https://simpleicons.org) - Used for the Shield badges' icons.
 
-### Sources Used:
+### Sources Used
 
 - [PineStore](https://pinestore.cc/) by [Xella](https://github.com/Xella37) - Used for [Libraries](#libraries) and [Programs](#programs).
 
