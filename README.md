@@ -189,6 +189,12 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/Quanty)
 
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
+
 ## Mods and addons
 
 ### Mods
@@ -316,6 +322,10 @@ Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies t
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1437946565997105233)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-lectern-hub)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/minecraftbossdj/CC-Lectern-Hub/)
 
+- [CCX](https://github.com/minecraftbossdj/CCX) by [minecraftbossdj](https://github.com/minecraftbossdj) - CC: Tweaked addon adding misc stuff.
+
+    ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1443715293036679268)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ccx)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/cc-x)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/bmMnhVCqJy)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/minecraftbossdj/CCX)
+
 ### Datapacks
 
 - [CC: Advanced Math](https://github.com/TechTastic/Advanced-Math) by [TechTastic](https://github.com/TechTastic/) - So [TechTastic](https://github.com/TechTastic/), after the making of the [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), realized he could also do Matrices. Then he made his own [PID controller](https://discord.com/channels/477910221872824320/1440340840625995889).
@@ -329,6 +339,12 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 
 > [!IMPORTANT]
 > All of the 3 projects above was created with the help of [getItemFromBlock](https://github.com/getItemFromBlock), and the "Spark" came from [me](https://github.com/Shlomo1412), though [tastic](https://github.com/TechTastic/Advanced-Math) ended up not using my code.
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
 
 ## External tools, websites and events
 
@@ -363,6 +379,12 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 - [XCC](#xcc) by [Shlomo1412](https://github.com/Shlomo1412) - A comprehensive web-based development suite for CC: Tweaked.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/197/the-xcc-project)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1411412232016761017)  [![Badge](https://img.shields.io/badge/🌐_Visit-Website-yellow?logoColor=white)](https://shlomo1412.github.io/XCC)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/XCC)  [![Badge](https://img.shields.io/badge/View-Section-lightgrey?logo=markdown)](#xcc)
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
 
 ## Programs
 
@@ -534,7 +556,7 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1343763007016144926)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/Vs9WGYtu)
 
-### Web , internet, and communication
+### Web, internet, and communication
 
 - [Craft-Web](https://github.com/Elemnto56/Craft-Web) by jjcthe_ (aka. [Elemnto56](https://github.com/Elemnto56)) - A web broswer for CC:T.
 
@@ -557,6 +579,12 @@ Easy to use with a neat UI, and ten pretty themes!
 - [Minecraft IRL Weather](https://pinestore.cc/projects/140/minecraft-irl-weather) by [Tom](https://pinestore.cc/user/787626842684915742) - An IRL weather app for minecraft, Computercraft
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/140/minecraft-irl-weather)
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
 
 ## Operating Systems
 
@@ -592,7 +620,20 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/190/ozy-os)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Kuberow/OZY-OS)
 
-## XCC
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
+
+<table width="100%">
+  <tr>
+    <td><h2 id="xcc">XCC</h2></td>
+    <td align="right">
+      <img src="https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white" alt="Recommended Badge">
+    </td>
+  </tr>
+</table>
 
 [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/197/the-xcc-project)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1411412232016761017)  [![Badge](https://img.shields.io/badge/🌐_Visit-Website-yellow?logoColor=white)](https://shlomo1412.github.io/XCC)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/XCC)
 
@@ -610,6 +651,12 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 - PixelUI UI Designer
 - PrimeUI UI Designer
 - NFP (CC's image format) Editor
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
 
 ## Awesome People
 
@@ -647,6 +694,12 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 - [TechTastic](https://github.com/TechTastic)
 
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
+
 ## Awesome Communities
 
 - [MCCM (Minecraft Computer Mods) Discord Server](https://discord.computercraft.cc/) by HydroNitrogen.
@@ -664,6 +717,14 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 - [ComputerCraft Forums](https://forums.computercraft.cc/).
 
 - [PineStore](https://pinestore.cc) by Xella.
+
+- [Awesome Development Server](https://discord.gg/bmMnhVCqJy) by minecraftbossdj.
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
 
 ## Credits
 
@@ -692,3 +753,9 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 - [Modrinth](https://modrinth.com/) - Used for [Mods and addons](#mods-and-addons).
 
 - [CurseForge](https://www.curseforge.com/) - Used for [Mods and addons](#mods-and-addons).
+
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
+  </a>
+</div>
