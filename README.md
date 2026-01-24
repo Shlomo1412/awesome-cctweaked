@@ -73,9 +73,13 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/simadude/obsi2/wiki)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/simadude/obsi2)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1268129893086920704)
 
-- [Xenon 2D Engine](https://github.com/SpartanSf/Xenon) by [SpartanSf (aka. SpSf)](https://github.com/SpartanSf) - The Xenon engine is focused for 2D games. It aims provides a feature-rich and easy to use interface for developing games.
+- [Xenon 2D Engine](https://github.com/SpartanSf/Xenon) by [SpartanSf](https://github.com/SpartanSf) (aka. SpSf) - The Xenon engine is focused for 2D games. It aims provides a feature-rich and easy to use interface for developing games.
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/SpartanSf/Xenon)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1389216394205466654)
+
+- [ion2d](https://github.com/SpartanSf/ion2d/) by [SpartanSf](https://github.com/SpartanSf) (aka. SpSf) - The spiritual successor to [Xenon](https://github.com/SpartanSf/Xenon). A [CraftOS-PC](https://www.craftos-pc.cc/) graphics mode engine with a decent set of features.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1462265267056017532) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SpartanSf/ion2d/) [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/SpartanSf/ion2d/blob/main/README.md) ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)
 
 ### Networking
 
