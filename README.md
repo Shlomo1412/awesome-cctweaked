@@ -61,7 +61,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [PrimeUI](https://mcjack123.github.io/PrimeUI/) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - A collection of UI component primitives for ComputerCraft. provides a number of small, mostly self-contained basic UI components that are designed to be embedded directly in a program.
 
-    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://mcjack123.github.io/PrimeUI/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/PrimeUI)  [![Badge](https://img.shields.io/badge/Use_its-Bundler-yellow?logo=mongodb&logoColor=white)](https://mcjack123.github.io/PrimeUI/bundler.html)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1132918663285047366)
+    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://mcjack123.github.io/PrimeUI/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/PrimeUI) [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1132918663285047366)  [![Badge](https://img.shields.io/badge/Use_its-Bundler-yellow?logo=mongodb&logoColor=white)](https://mcjack123.github.io/PrimeUI/bundler.html)
 
 - [CCKit](https://github.com/Phoenix-ComputerCraft/CCKit2/) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) *(Yes, it's him again...)* - A new cross-platform object-oriented UI framework for ComputerCraft.
 
@@ -79,7 +79,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [ion2d](https://github.com/SpartanSf/ion2d/) by [SpartanSf](https://github.com/SpartanSf) (aka. SpSf) - The spiritual successor to [Xenon](https://github.com/SpartanSf/Xenon). A [CraftOS-PC](https://www.craftos-pc.cc/) graphics mode engine with a decent set of features.
 
-  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1462265267056017532) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SpartanSf/ion2d/) [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/SpartanSf/ion2d/blob/main/README.md) ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)
+  ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white) [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/SpartanSf/ion2d/blob/main/README.md)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SpartanSf/ion2d/) [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1462265267056017532) 
 
 ### Networking
 
