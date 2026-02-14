@@ -74,6 +74,10 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://phoenix-computercraft.github.io/CCKit2/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Phoenix-ComputerCraft/CCKit2/)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1357889734533185597)
 
+- [Tamperer 2.0](https://github.com/Fatboychummy-CC/Tamperer) by [Fatboychummy](https://github.com/Fatboychummy-CC) - a menu driver for ComputerCraft that allows you to create interactive settings menus for your programs with ease.
+
+    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/Fatboychummy-CC/Tamperer/wiki/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Fatboychummy-CC/Tamperer)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1469585000319160353)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/220/tamperer-2-0)
+
 ### 2D Game development
 
 - [Obsi 2](https://github.com/simadude/obsi2) by [Simadude](https://github.com/simadude) - a Lua library that was designed specifically for CC:Tweaked. Originally it was made as a game engine, but have refactored into a library for easier packaging.
