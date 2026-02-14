@@ -30,7 +30,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
   - [Games](#games)
   - [Audio/Video Players](#audiovideo-players)
   - [AI](#ai)
-  - [Web , internet, and communication](#web--internet-and-communication)
+  - [Web, internet, and communication](#web-internet-and-communication)
   - [Demoscene & Proof-of-Concept Projects](#demoscene--proof-of-concept-projects)
 - [Operating Systems](#operating-systems)
   - [Graphical Operating Systems](#graphical-operating-systems)
@@ -614,15 +614,19 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/146/quint)
 
-### Headless Operating Systems
+### [Headless](https://en.wikipedia.org/wiki/Headless_software) Operating Systems
 
 - [Phoenix](https://pinestore.cc/projects/38/phoenix) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - the next-generation modular operating system for ComputerCraft. It introduces a brand-new way to interact with CC, adding many services from modern systems such as preemptive multitasking, filesystem permissions, virtual device trees, and much more.
 
-    [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/38/phoenix)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020804405165047911)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://www.craftos-pc.cc/discord)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://phoenix.madefor.cc/)  [![Badge](https://img.shields.io/badge/View_its-Changelog-red?logo=changedetection&logoColor=white)](https://phoenix.madefor.cc/docs/changelog)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://phoenix.madefor.cc/)
+    [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/38/phoenix)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020804405165047911)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://www.craftos-pc.cc/discord)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://phoenix.madefor.cc/)  [![Badge](https://img.shields.io/badge/View_its-Changelog-red?logo=changedetection&logoColor=white)](https://phoenix.madefor.cc/docs/changelog)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Phoenix-ComputerCraft/)
 
 - [OZY OS](https://pinestore.cc/projects/190/ozy-os) by [Kuberow](https://pinestore.cc/user/1265921944860102777) and [Tom](https://pinestore.cc/user/787626842684915742) - a CC:T Operating System made for Security.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/190/ozy-os)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Kuberow/OZY-OS)
+
+- [iPod OS](https://github.com/kaykaypoopaa/Ipod-CC-Tweaked) by [GlitchGod42](https://github.com/GlitchGod42) and [kaykaypoopaa](https://github.com/kaykaypoopaa) - an [headless](https://en.wikipedia.org/wiki/Headless_software) OS for [advanced pocket computers](https://letmegooglethat.com/?q=CC%3A+Tweaked+advanced+pocket+computer).
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1472312218275151997) [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](http://ipod-os-cctweaked.duckdns.org/website/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/kaykaypoopaa/Ipod-CC-Tweaked)
 
 <div align="right">
   <a href="#top">
