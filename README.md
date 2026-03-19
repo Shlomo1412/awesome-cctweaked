@@ -440,6 +440,12 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
 ### Games
 
+- [CC: Zombies Demo](https://pinestore.cc/projects/228/cc-zombies-demo-0-5-) by [Nightheart](https://pinestore.cc/user/1007653375917166662) - [Call of Duty Zombies](https://en.wikipedia.org/wiki/Call_of_Duty_Zombies), ported to [CC](https://tweaked.cc/).
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1483327487025872947)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/228/cc-zombies-demo-0-5-)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/DrNightheart/CC-Zombies-Downloadable-Assets/tree/main)
+
+
+
 - [Crazy Cargo Crusade](https://pinestore.cc/projects/185/crazy-cargo-crusade) by [Sammy](https://github.com/SammyForReal) - A game where you drive towards a warehouse on a randomly generated map, as fast as possible! (PineJam 2025)
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1403056683701375068)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/185/crazy-cargo-crusade)
