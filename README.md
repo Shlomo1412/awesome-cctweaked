@@ -30,7 +30,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
   - [Games](#games)
   - [Audio/Video Players](#audiovideo-players)
   - [AI](#ai)
-  - [Web , internet, and communication](#web--internet-and-communication)
+  - [Web, internet, and communication](#web-internet-and-communication)
   - [Demoscene & Proof-of-Concept Projects](#demoscene--proof-of-concept-projects)
 - [Operating Systems](#operating-systems)
   - [Graphical Operating Systems](#graphical-operating-systems)
@@ -53,19 +53,30 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [Basalt](https://basalt.madefor.cc/) by [Pyroxenium (aka. Robert Jelic)](https://github.com/Pyroxenium) - a modern, fast and well-known UI Framework.
 
-    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://basalt.madefor.cc/guides/getting-started.html) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Pyroxenium/Basalt2)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/dvpd49Zxf7)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020664889666179073)  [![DeepWiki](https://img.shields.io/badge/DeepWiki-Pyroxenium%2FBasalt2-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/Pyroxenium/Basalt2)
+    ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://basalt.madefor.cc/guides/getting-started.html) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Pyroxenium/Basalt2)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/dvpd49Zxf7)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020664889666179073)  [![DeepWiki](https://img.shields.io/badge/DeepWiki-Pyroxenium%2FBasalt2-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/Pyroxenium/Basalt2)
 
 - [PixelUI](https://shlomo1412.github.io/pixelui-website/) by [Shlomo1412](https://github.com/Shlomo1412) *(Hey, it's me!)* - New UI Framework, currently on beta. Very fast, well documented, and containing *a lot* of features.
 
     [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://shlomo1412.github.io/pixelui-website/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/PixelUI)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1390010384798187570)  [![DeepWiki](https://img.shields.io/badge/DeepWiki-Shlomo1412%2FPixelUI-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/Shlomo1412/PixelUI)
 
+> [!WARNING]
+> This library is archived since the release of the new and improved version. See next entry.
+
+- [PixelUI v2](https://pixelui.madefor.cc/) by [Shlomo1412](https://github.com/Shlomo1412) - A new, improved, built from the ground up version of [PixelUI](https://shlomo1412.github.io/pixelui-website/) - now with improved structure, and Teltext rendering using [Shrekbox](https://codeberg.org/ShreksHellraiser/shrekbox).
+
+    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://pixelui.madefor.cc)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/PixelUI-v2)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1433538177486032979)  
+
 - [PrimeUI](https://mcjack123.github.io/PrimeUI/) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - A collection of UI component primitives for ComputerCraft. provides a number of small, mostly self-contained basic UI components that are designed to be embedded directly in a program.
 
-    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://mcjack123.github.io/PrimeUI/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/PrimeUI)  [![Badge](https://img.shields.io/badge/Use_its-Bundler-yellow?logo=mongodb&logoColor=white)](https://mcjack123.github.io/PrimeUI/bundler.html)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1132918663285047366)
+    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://mcjack123.github.io/PrimeUI/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/PrimeUI) [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1132918663285047366)  [![Badge](https://img.shields.io/badge/Use_its-Bundler-yellow?logo=mongodb&logoColor=white)](https://mcjack123.github.io/PrimeUI/bundler.html)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/205/pixelui-v2)
 
 - [CCKit](https://github.com/Phoenix-ComputerCraft/CCKit2/) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) *(Yes, it's him again...)* - A new cross-platform object-oriented UI framework for ComputerCraft.
 
     [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://phoenix-computercraft.github.io/CCKit2/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Phoenix-ComputerCraft/CCKit2/)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1357889734533185597)
+
+- [Tamperer 2.0](https://github.com/Fatboychummy-CC/Tamperer) by [Fatboychummy](https://github.com/Fatboychummy-CC) - a menu driver for ComputerCraft that allows you to create interactive settings menus for your programs with ease.
+
+    [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/Fatboychummy-CC/Tamperer/wiki/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Fatboychummy-CC/Tamperer)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1469585000319160353)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/220/tamperer-2-0)
 
 ### 2D Game development
 
@@ -73,9 +84,13 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/simadude/obsi2/wiki)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/simadude/obsi2)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1268129893086920704)
 
-- [Xenon 2D Engine](https://github.com/SpartanSf/Xenon) by [SpartanSf (aka. SpSf)](https://github.com/SpartanSf) - The Xenon engine is focused for 2D games. It aims provides a feature-rich and easy to use interface for developing games.
+- [Xenon 2D Engine](https://github.com/SpartanSf/Xenon) by [SpartanSf](https://github.com/SpartanSf) (aka. SpSf) - The Xenon engine is focused for 2D games. It aims provides a feature-rich and easy to use interface for developing games.
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/SpartanSf/Xenon)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1389216394205466654)
+
+- [ion2d](https://github.com/SpartanSf/ion2d/) by [SpartanSf](https://github.com/SpartanSf) (aka. SpSf) - The spiritual successor to [Xenon](https://github.com/SpartanSf/Xenon). A [CraftOS-PC](https://www.craftos-pc.cc/) graphics mode engine with a decent set of features.
+
+  ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white) [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/SpartanSf/ion2d/blob/main/README.md)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SpartanSf/ion2d/) [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1462265267056017532) 
 
 ### Networking
 
@@ -95,7 +110,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [Pine3D](https://github.com/Xella37/Pine3D) by [Xella](https://github.com/Xella37) - The most known, iconic and effecient 3D renderer for CC.
 
-    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Xella37/Pine3D)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://pine3d.cc/docs/guide/1_gettingStarted)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/24/pine3d)  [![Badge](https://img.shields.io/badge/📎_View_its-Website-orange?logoColor=white)](https://pine3d.cc)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/rsA8sKAMFV)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1052272130655531089)
+    ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Xella37/Pine3D)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://pine3d.cc/docs/guide/1_gettingStarted)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/24/pine3d)  [![Badge](https://img.shields.io/badge/📎_View_its-Website-orange?logoColor=white)](https://pine3d.cc)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/rsA8sKAMFV)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1052272130655531089)
 
 - [C3D](https://github.com/9551-Dev/libC3D-dev) by [9551](https://github.com/9551-Dev)
 
@@ -109,7 +124,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 - [Hopper.lua](https://github.com/umnikos/hopper.lua) by [umnikos](https://github.com/umnikos) - a cli CC program for the easy setup of complex item transportation pipelines. It supports wildcards, filters, transfer limits, many different peripherals, and more.
 
-    [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/umnikos/hopper.lua)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1240740777429172225)  [![Badge](https://img.shields.io/badge/Simplified-Version-orange?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1434249907450941550)
+    ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)]( https://github.com/umnikos/hopper.lua)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1240740777429172225)  [![Badge](https://img.shields.io/badge/Simplified-Version-orange?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1434249907450941550)
 
 - [Open Inventory Library (OIL)](https://github.com/afonya2/CC-OpenInvLib) by afo nya~ :3 (aka. [afonya2](https://github.com/afonya2)) - A modern inventory library for CC: Tweaked, With a command line utility called `ChestPart`.
 
@@ -129,7 +144,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Fatboychummy-CC/Libraries/blob/main/thread.lua)
 
-- RedRun by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - a small coroutine manager that uses the `rednet.run` top-level coroutine to run tasks in the background.
+- [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - a small coroutine manager that uses the `rednet.run` top-level coroutine to run tasks in the background.
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020785201393172510)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8)
 
@@ -616,15 +631,19 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/146/quint)
 
-### Headless Operating Systems
+### [Headless](https://en.wikipedia.org/wiki/Headless_software) Operating Systems
 
 - [Phoenix](https://pinestore.cc/projects/38/phoenix) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - the next-generation modular operating system for ComputerCraft. It introduces a brand-new way to interact with CC, adding many services from modern systems such as preemptive multitasking, filesystem permissions, virtual device trees, and much more.
 
-    [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/38/phoenix)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020804405165047911)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://www.craftos-pc.cc/discord)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://phoenix.madefor.cc/)  [![Badge](https://img.shields.io/badge/View_its-Changelog-red?logo=changedetection&logoColor=white)](https://phoenix.madefor.cc/docs/changelog)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://phoenix.madefor.cc/)
+    [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/38/phoenix)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020804405165047911)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://www.craftos-pc.cc/discord)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://phoenix.madefor.cc/)  [![Badge](https://img.shields.io/badge/View_its-Changelog-red?logo=changedetection&logoColor=white)](https://phoenix.madefor.cc/docs/changelog)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Phoenix-ComputerCraft/)
 
 - [OZY OS](https://pinestore.cc/projects/190/ozy-os) by [Kuberow](https://pinestore.cc/user/1265921944860102777) and [Tom](https://pinestore.cc/user/787626842684915742) - a CC:T Operating System made for Security.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/190/ozy-os)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Kuberow/OZY-OS)
+
+- [iPod OS](https://github.com/kaykaypoopaa/Ipod-CC-Tweaked) by [GlitchGod42](https://github.com/GlitchGod42) and [kaykaypoopaa](https://github.com/kaykaypoopaa) - an [headless](https://en.wikipedia.org/wiki/Headless_software) OS for [advanced pocket computers](https://letmegooglethat.com/?q=CC%3A+Tweaked+advanced+pocket+computer).
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1472312218275151997) [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](http://ipod-os-cctweaked.duckdns.org/website/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/kaykaypoopaa/Ipod-CC-Tweaked)
 
 <div align="right">
   <a href="#top">
@@ -724,7 +743,7 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 - [PineStore](https://pinestore.cc) by Xella.
 
-- [Awesome Development Server](https://discord.gg/bmMnhVCqJy) by minecraftbossdj.
+- [Awesoft Development Server](https://discord.gg/bmMnhVCqJy) by minecraftbossdj.
 
 <div align="right">
   <a href="#top">
