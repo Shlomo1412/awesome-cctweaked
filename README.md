@@ -192,6 +192,10 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 ### Other
 
+- [DesynCC](https://github.com/afonya2/DesynCC) by [afonya2](https://github.com/afonya2) - A [Javascript](https://en.wikipedia.org/wiki/JavaScript) like event and await/async library for [CC: Tweaked](https://tweaked.cc).
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1479970936085155950)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/afonya2/DesynCC/blob/main/README.md)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/afonya2/DesynCC)
+
 - Trainlib by **root@dev:~# python3 mourn_sc3.py** *(<- That's the name, I promise)* - makes it easier to handle Create's train schedules using a pseudo-OOP syntax.
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1292217740416778240)
