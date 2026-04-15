@@ -463,7 +463,10 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1483327487025872947)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/228/cc-zombies-demo-0-5-)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/DrNightheart/CC-Zombies-Downloadable-Assets/tree/main)
 
+- [Chess Game](https://github.com/aTimmYm/Chess/tree/main) by ArtJem (aka. [aTimmYm](https://github.com/aTimmYm)) - Chess for ComputerCraft — a full-featured chess game right inside Minecraft.
+The game supports two display modes (graphical and text), multiple board color themes, sound effects, multiplayer via Rednet and WebSocket, and three languages: Russian, Ukrainian, and English (for Graphical Mode).
 
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1493673891925852272)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/aTimmYm/Chess/tree/main)
 
 - [Crazy Cargo Crusade](https://pinestore.cc/projects/185/crazy-cargo-crusade) by [Sammy](https://github.com/SammyForReal) - A game where you drive towards a warehouse on a randomly generated map, as fast as possible! (PineJam 2025)
 
