@@ -241,6 +241,10 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 > [!NOTE]
 > This mod is currently only avilable to download from [this post](https://discord.com/channels/477910221872824320/143201363913264745) or from its [GitHub Repo](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar).
 
+- [CC: LiftLink](https://github.com/tiktop101/CC-LiftLink) by tom (aka. [tiktop101](https://github.com/tiktop101)) - Adds ComputerCraft support for Create elevators using just one connected redstone contact from the elevator column.
+
+  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ccliftlink)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/cc-liftlink)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1493969913952342176)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/tiktop101/CC-LiftLink/blob/main/README.md)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tiktop101/CC-LiftLink)
+
 - [CC: Androids](https://modrinth.com/mod/cc-androids) by [ThunderBear](https://modrinth.com/user/ThunderBear) - Programmable Androids for minecraft.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-androids)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/ThunderBear2006/CC-Androids/wiki) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tom5454/Toms-Peripherals)
