@@ -174,6 +174,10 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1405595757075234886)  [![Badge](https://img.shields.io/badge/Open-Source-blue?logo=codeberg&logoColor=white)](https://codeberg.org/ShreksHellraiser/shrekbox)
 
+- [ComBox](https://github.com/hexelll/ComBox) by [hexelll](https://github.com/hexelll) (aka. hexell_dev) and [TheoALBERT](https://github.com/TheoALBERT) (aka. TO) - An all-in-one rendering system for CC, all about render quality and customizability.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1510369872335470793)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/hexelll/ComBox)
+
 ### Fonts
 
 - [More Fonts](https://pinestore.cc/projects/37/more-fonts) by [Michiel](https://github.com/MichielP1807) - a library to print large text using teletext pixels with various fonts, sizes, and text wrapping and spacing options!
