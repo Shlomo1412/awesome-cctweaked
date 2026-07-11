@@ -411,6 +411,10 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 
     [![Badge](https://img.shields.io/badge/🌐_Visit-yellow?logoColor=white)](https://monitorsize.madefor.cc/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ShreksHellraiser/CC_Monitor_Size)
 
+- [CCSharp](https://github.com/monkeymanboy/CCSharp) by [monkeymanboy](https://github.com/monkeymanboy) - C# to lua transpiler for ComputerCraft.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1442339850169876551)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/monkeymanboy/CCSharp)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/monkeymanboy/CCSharp/tree/master/docs)
+
 - [XCC](#xcc) by [Shlomo1412](https://github.com/Shlomo1412) - A comprehensive web-based development suite for CC: Tweaked.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/197/the-xcc-project)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1411412232016761017)  [![Badge](https://img.shields.io/badge/🌐_Visit-Website-yellow?logoColor=white)](https://shlomo1412.github.io/XCC)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/XCC)  [![Badge](https://img.shields.io/badge/View-Section-lightgrey?logo=markdown)](#xcc)
