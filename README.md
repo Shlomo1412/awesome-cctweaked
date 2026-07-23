@@ -790,7 +790,7 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 ### Author: [Shlomo1412](https://github.com/Shlomo1412)
 
-### People Who Helped
+### Special Thanks
 
 - FLESHPRIS0N - Made the DeepWikis for Basalt and PixelUI, along with their Shield Badges.
 
@@ -813,6 +813,14 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 - [Modrinth](https://modrinth.com/) - Used for [Mods and addons](#mods-and-addons).
 
 - [CurseForge](https://www.curseforge.com/) - Used for [Mods and addons](#mods-and-addons).
+
+### See Also:
+
+- [Awesome List](https://github.com/sindresorhus/awesome) by [Sindre Sorhus](https://github.com/sindresorhus).
+
+- [Awesome ComputerCraft](https://github.com/tomodachi94/awesome-computercraft/) by [Tomodachi94](https://github.com/tomodachi94).
+
+- [Awesome Lua](https://github.com/lewisjellis/awesome-lua) by [Lewis J Ellis](https://github.com/LewisJEllis).
 
 <div align="right">
   <a href="#top">
