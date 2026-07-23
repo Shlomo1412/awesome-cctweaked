@@ -4,6 +4,10 @@
 
 A curated list of awesome resources, libraries, programs, tutorials, and projects for [CC:Tweaked](https://modrinth.com/mod/cc-tweaked), modern ComputerCraft fork for Minecraft.
 
+> [!TIP]
+> **PineJam 2026 has started!**
+> 👉 You can register for the event and submit your entries at the official [PineJam 2026 Sign-up Page](https://pinestore.cc/jam/pinejam2026).
+
 <details>
 <summary>📑 Table of Contents</summary>
 
