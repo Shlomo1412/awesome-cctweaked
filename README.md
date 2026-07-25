@@ -822,6 +822,8 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 - [Awesome Lua](https://github.com/lewisjellis/awesome-lua) by [Lewis J Ellis](https://github.com/LewisJEllis).
 
+- [NEET Computers](https://www.red-toast.net/NeetDocumentation/home.html) by [RedToast](https://github.com/redtoast/).
+
 <div align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
