@@ -4,12 +4,9 @@
 
 A curated list of awesome resources, libraries, programs, tutorials, and projects for [CC:Tweaked](https://modrinth.com/mod/cc-tweaked), modern ComputerCraft fork for Minecraft.
 
-<!-- PINEJAM_NOTICE_START -->
-> [!IMPORTANT]
-> PineJam 2026 is currently live.
-> ![Participants joined](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpinestore.cc%2Fapi%2Fjam%2Fpinejam2026&query=%24.jam.contestant_count&label=PineJam%202026%20joined&suffix=%20participants&color=00C853)
-> This notice updates automatically and disappears when the jam ends. Ends: Sat, 08 Aug 2026 10:00:00 GMT.
-<!-- PINEJAM_NOTICE_END -->
+> [!TIP]
+> **PineJam 2026 has started!**
+> 👉 You can register for the event and submit your entries at the official [PineJam 2026 Sign-up Page](https://pinestore.cc/jam/pinejam2026).
 
 <details>
 <summary>📑 Table of Contents</summary>
@@ -181,6 +178,10 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1405595757075234886)  [![Badge](https://img.shields.io/badge/Open-Source-blue?logo=codeberg&logoColor=white)](https://codeberg.org/ShreksHellraiser/shrekbox)
 
+- [ComBox](https://github.com/hexelll/ComBox) by [hexelll](https://github.com/hexelll) (aka. hexell_dev) and [TheoALBERT](https://github.com/TheoALBERT) (aka. TO) - An all-in-one rendering system for CC, all about render quality and customizability.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1510369872335470793)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/hexelll/ComBox)
+
 ### Fonts
 
 - [More Fonts](https://pinestore.cc/projects/37/more-fonts) by [Michiel](https://github.com/MichielP1807) - a library to print large text using teletext pixels with various fonts, sizes, and text wrapping and spacing options!
@@ -248,6 +249,14 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 > [!NOTE]
 > This mod is currently only avilable to download from [this post](https://discord.com/channels/477910221872824320/143201363913264745) or from its [GitHub Repo](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar).
 
+- [CC: LiftLink](https://github.com/tiktop101/CC-LiftLink) by tom (aka. [tiktop101](https://github.com/tiktop101)) - Adds ComputerCraft support for Create elevators using just one connected redstone contact from the elevator column.
+
+  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ccliftlink)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/cc-liftlink)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1493969913952342176)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/tiktop101/CC-LiftLink/blob/main/README.md)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tiktop101/CC-LiftLink)
+
+- [CIDE](https://modrinth.com/mod/cide-cc) by [kivts99](https://modrinth.com/user/kivts91) (aka. Kivts) - An attempt to make a [VSC](https://code.visualstudio.com/)-like code editor in-game.
+
+  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cide-cc)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1507294710308536350)
+
 - [CC: Androids](https://modrinth.com/mod/cc-androids) by [ThunderBear](https://modrinth.com/user/ThunderBear) - Programmable Androids for minecraft.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-androids)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/ThunderBear2006/CC-Androids/wiki) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tom5454/Toms-Peripherals)
@@ -260,6 +269,10 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies to improve the multiplayer experience.
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/embeddedcomputer/)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/WindClan/EmbeddedComputerMod/wiki)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/WindClan/EmbeddedComputerMod)
+
+- [Lake's CC Additions](https://github.com/lakehouse445/lakes-cc-additions) by lakehouse (aka. [lakehouse445](https://github.com/lakehouse445) or [lakehousee](https://www.curseforge.com/members/lakehousee/projects)) - CC:Tweaked hardware for paperwork.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1525079580136706058)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/lakes-cc-additions)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/lakehouse445/lakes-cc-additions)
 
 - [SwitchCraft Peripherals](https://modrinth.com/mod/sc-peripherals) by [Lemmmy](https://modrinth.com/user/Lemmmy) - Custom peripherals for the SwitchCraft server, including 3D Printers in the style of OpenComputers.
 
@@ -352,6 +365,10 @@ Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies t
 
     ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1443715293036679268)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/ccx)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/cc-x)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/bmMnhVCqJy)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/minecraftbossdj/CCX)
 
+- [Cricket's Peripherals](https://modrinth.com/mod/crickets-peripherals) by [PewPewCricket](https://github.com/PewPewCricket): Adds a slew of new peripherals that fill in many feature holes of [CC: Tweaked](https://tweaked.cc).
+
+    [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1512986326335623188)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/crickets-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/crickets-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-GitHub-black?logo=github)](https://github.com/PewPewCricket/crickets-peripherals/releases)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/PewPewCricket/crickets-peripherals)
+
 ### Datapacks
 
 - [CC: Advanced Math](https://github.com/TechTastic/Advanced-Math) by [TechTastic](https://github.com/TechTastic/) - So [TechTastic](https://github.com/TechTastic/), after the making of the [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), realized he could also do Matrices. Then he made his own [PID controller](https://discord.com/channels/477910221872824320/1440340840625995889).
@@ -401,6 +418,10 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 - [ComputerCraft Monitor Size Calculator](https://monitorsize.madefor.cc/) by [ShreksHellraiser](https://github.com/ShreksHellraiser) - a lightweight web tool that helps you determine the monitor dimensions in both character units and pixel units based on monitor width, height, and selected text scale — ideal for planning GUI layouts in-game.
 
     [![Badge](https://img.shields.io/badge/🌐_Visit-yellow?logoColor=white)](https://monitorsize.madefor.cc/)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ShreksHellraiser/CC_Monitor_Size)
+
+- [CCSharp](https://github.com/monkeymanboy/CCSharp) by [monkeymanboy](https://github.com/monkeymanboy) - C# to lua transpiler for ComputerCraft.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1442339850169876551)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/monkeymanboy/CCSharp)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/monkeymanboy/CCSharp/tree/master/docs)
 
 - [XCC](#xcc) by [Shlomo1412](https://github.com/Shlomo1412) - A comprehensive web-based development suite for CC: Tweaked.
 
@@ -470,7 +491,10 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1483327487025872947)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/228/cc-zombies-demo-0-5-)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/DrNightheart/CC-Zombies-Downloadable-Assets/tree/main)
 
+- [Chess Game](https://github.com/aTimmYm/Chess/tree/main) by ArtJem (aka. [aTimmYm](https://github.com/aTimmYm)) and [braunnn](https://github.com/braunnn-here) - Chess for ComputerCraft — a full-featured chess game right inside Minecraft.
+The game supports two display modes (graphical and text), multiple board color themes, sound effects, multiplayer via Rednet and WebSocket, and three languages: Russian, Ukrainian, and English (for Graphical Mode).
 
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1493673891925852272)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/aTimmYm/Chess/tree/main)
 
 - [Crazy Cargo Crusade](https://pinestore.cc/projects/185/crazy-cargo-crusade) by [Sammy](https://github.com/SammyForReal) - A game where you drive towards a warehouse on a randomly generated map, as fast as possible! (PineJam 2025)
 
@@ -766,7 +790,7 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 
 ### Author: [Shlomo1412](https://github.com/Shlomo1412)
 
-### People Who Helped
+### Special Thanks
 
 - FLESHPRIS0N - Made the DeepWikis for Basalt and PixelUI, along with their Shield Badges.
 
@@ -789,6 +813,16 @@ As always, feedback is welcome. Feel free to point out bugs, open issues, and su
 - [Modrinth](https://modrinth.com/) - Used for [Mods and addons](#mods-and-addons).
 
 - [CurseForge](https://www.curseforge.com/) - Used for [Mods and addons](#mods-and-addons).
+
+### See Also:
+
+- [Awesome List](https://github.com/sindresorhus/awesome) by [Sindre Sorhus](https://github.com/sindresorhus).
+
+- [Awesome ComputerCraft](https://github.com/tomodachi94/awesome-computercraft/) by [Tomodachi94](https://github.com/tomodachi94).
+
+- [Awesome Lua](https://github.com/lewisjellis/awesome-lua) by [Lewis J Ellis](https://github.com/LewisJEllis).
+
+- [NEET Computers](https://www.red-toast.net/NeetDocumentation/home.html) by [RedToast](https://github.com/redtoast/).
 
 <div align="right">
   <a href="#top">
