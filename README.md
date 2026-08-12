@@ -643,6 +643,10 @@ Easy to use with a neat UI, and ten pretty themes!
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/140/minecraft-irl-weather)
 
+- [Jane Demo](https://github.com/piguman3/PineJam2026Demo) by [piguman3](https://github.com/piguman3) - A really tiny 38 second demo.
+
+  [![Badge](https://img.shields.io/badge/PineJam_2026_Entry-success?labelColor=287635)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/255/jane-demo)  [![Badge](https://img.shields.io/badge/Discord-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535501025530617877)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/piguman3/PineJam2026Demo)
+
 <div align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
