@@ -474,6 +474,9 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1402258043781124117)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/181/pixelcode-pixelui-demo-)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua)
+  
+> [!WARNING]
+> [PixelCode](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua) is archived.
 
 - [CONSULT](https://consult.madefor.cc/) by [Sammy](https://github.com/SammyForReal) - A Lua editor that provides a modern user interface for CraftOS (and anything based on it).
 
@@ -484,6 +487,10 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1277470936588877865)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/114/shrekword)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ShrekshellraiserCC/shrekword)
+
+- [SpriteMog 1.2](https://pastebin.com/iHpQhwvy) by Kazza - Feature-filled Sprite Maker.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1536082499342573689)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/iHpQhwvy)
 
 ### Games
 
