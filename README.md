@@ -44,7 +44,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 - [Awesome Communities](#awesome-communities)
 - [Credits](#credits)
   - [Author](#author-shlomo1412)
-  - [People Who Helped](#people-who-helped)
+  - [Special Thanks](#special-thanks)
   - [Contributors](#contributors)
   - [Tools Used](#tools-used)
   - [Sources Used](#sources-used)
