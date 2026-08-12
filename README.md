@@ -651,6 +651,10 @@ Easy to use with a neat UI, and ten pretty themes!
 
   [![Badge](https://img.shields.io/badge/PineJam_2026_Entry-success?labelColor=287635)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/256/4th-dimension)  [![Badge](https://img.shields.io/badge/Discord-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535480966771118221)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/4thDimension)
 
+- [Forever Testing](https://pinestore.cc/jam/pinejam2026/submissions/257/forever-testing) by [Minki (the Avali)](https://pinestore.cc/user/692475721544630272) - A CCT Demo.
+
+  [![Badge](https://img.shields.io/badge/PineJam_2026_Entry-success?labelColor=287635)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/257/forever-testing)  [![Badge](https://img.shields.io/badge/Open-Source-blue?logo=codeberg&logoColor=white)](https://codeberg.org/mueller_minki/ForeverTesting)
+
 <div align="right">
   <a href="#top">
     <img src="https://img.shields.io/badge/⬆️_Back_to_Top-blue?logoColor=green" alt="Back to Top Badge">
