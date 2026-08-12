@@ -577,6 +577,10 @@ JUMP HIGHER AND HIGHER UNTIL YOU [[die]]. *(<- Not even kidding. That's the orig
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/167/racing-game)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/remie92/Computer-Racer)
 
+- [Bombastic Island](https://pinestore.cc/projects/259/bombastic-island) by [hexell_dessin](https://pinestore.cc/user/314366180624171008) (aka. hexell_dev, [hexelll](https://github.com/hexelll)) and [TO](https://pinestore.cc/user/574661026927214595) - You are trying to keep your civilisation from collapsing under ennemy fire by creating new cities and train lines.
+
+  [![Badge](https://img.shields.io/badge/PineJam_2026_Entry-success?labelColor=287635)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/259/bombastic-island)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535586261828374588)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/hexelll/pinejam2026)
+
 ### Audio/Video Players
 
 - [YouCube](https://discord.com/channels/477910221872824320/1036382245516214302) by Commandcracker - a tool that streams dfpwm files to ComputerCraft: Tweaked. The YouCube server uses yt-dlp and yt-dlp/FFmpeg to provide media from services like YouTube as dfpwm files.
