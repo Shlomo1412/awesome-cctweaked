@@ -446,7 +446,7 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1061830961479831602)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Storehaus/CC-MISC)
 
 > [!NOTE]
-> MISC is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
+> [MISC](https://github.com/Storehaus/CC-MISC) is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
 
 - [Turtle 3D Printer (C#)](https://discord.com/channels/477910221872824320/1158042129776508928) by [L3velDr4in](https://github.com/pre-alpha-final) - Print from png blueprints or scan terrain and reprint.
 
@@ -646,6 +646,10 @@ Easy to use with a neat UI, and ten pretty themes!
 - [Jane Demo](https://github.com/piguman3/PineJam2026Demo) by [piguman3](https://github.com/piguman3) - A really tiny 38 second demo.
 
   [![Badge](https://img.shields.io/badge/PineJam_2026_Entry-success?labelColor=287635)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/255/jane-demo)  [![Badge](https://img.shields.io/badge/Discord-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535501025530617877)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/piguman3/PineJam2026Demo)
+
+- [4th Dimension](https://github.com/MCJack123/4thDimension) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - Welcome to the 4th Dimension.
+
+  [![Badge](https://img.shields.io/badge/PineJam_2026_Entry-success?labelColor=287635)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/256/4th-dimension)  [![Badge](https://img.shields.io/badge/Discord-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535480966771118221)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/4thDimension)
 
 <div align="right">
   <a href="#top">
