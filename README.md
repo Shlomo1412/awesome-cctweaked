@@ -5,63 +5,8 @@
 A curated list of awesome resources, libraries, programs, tutorials, and projects for [CC:Tweaked](https://modrinth.com/mod/cc-tweaked), modern ComputerCraft fork for Minecraft.
 
 > [!TIP]
-> **PineJam 2026 is over!**
-> 👀 You can view the winners and the other submissions at the official [PineJam 2026 Page](https://pinestore.cc/jam/pinejam2026/submissions).
-
-<details>
-<summary><strong>View Results</strong></summary>
-
-<br>
-
-<h2 align="center">PineJam 2026</h2>
-
-<p align="center">
-    <a href="https://pinestore.cc/jam/pinejam2026/submissions"><strong>View all submissions and results</strong></a>
-</p>
-
-<h3 align="center">Judges</h3>
-
-<p align="center">
-    <a href="https://pinestore.cc/user/176749952641400833"><img src="https://pinestore.cc/pfp/176749952641400833.png" alt="SirEdvin" width="84" height="84"></a>
-    <a href="https://pinestore.cc/user/1153273351129800764"><img src="https://pinestore.cc/pfp/1153273351129800764.png" alt="Shlomo" width="84" height="84"></a>
-    <a href="https://pinestore.cc/user/862377905891966985"><img src="https://pinestore.cc/pfp/862377905891966985.png" alt="sunflowerthomas" width="84" height="84"></a>
-    <a href="https://pinestore.cc/user/508577166405926913"><img src="https://pinestore.cc/pfp/508577166405926913.png" alt="dev9551" width="84" height="84"></a>
-    <a href="https://pinestore.cc/user/236628809158230018"><img src="https://pinestore.cc/pfp/236628809158230018.png" alt="Fatboychummy" width="84" height="84"></a>
-    <br>
-    <sub>SirEdvin &nbsp;&nbsp;&nbsp;&nbsp; Shlomo &nbsp;&nbsp;&nbsp;&nbsp; sunflowerthomas &nbsp;&nbsp;&nbsp;&nbsp; dev9551 &nbsp;&nbsp;&nbsp;&nbsp; Fatboychummy</sub>
-</p>
-
-<h3 align="center">Winning Projects</h3>
-
-<details>
-<summary><strong>1st Place: Forever Testing</strong> - 8.37 / 10</summary>
-
-<br>
-<p align="center">
-    <a href="https://www.youtube.com/watch?v=NO5hZH-xOcI"><img src="https://img.youtube.com/vi/NO5hZH-xOcI/maxresdefault.jpg" alt="Forever Testing video preview" width="680"></a>
-</p>
-
-A Portal-inspired demoscene built with PinePix and Pine3D, featuring real-time portal rendering and a generated MIDI soundtrack. [Explore the submission](https://pinestore.cc/jam/pinejam2026/submissions/257/forever-testing).
-</details>
-
-<details>
-<summary><strong>2nd Place: Jane Demo</strong> - 7.90 / 10</summary>
-
-A 38-second ComputerCraft demo combining Pine3D, Blender animation, and "Jane" by The Long Faces. [Explore the submission](https://pinestore.cc/jam/pinejam2026/submissions/255/jane-demo).
-</details>
-
-<details>
-<summary><strong>3rd Place: Bombastic Island</strong> - 7.70 / 10</summary>
-
-<br>
-<p align="center">
-    <a href="https://pinestore.cc/jam/pinejam2026/submissions/259/bombastic-island"><img src="https://pinestore.cc/project/259/image_0.webp" alt="Bombastic Island screenshot" width="680"></a>
-</p>
-
-A tabletop-inspired strategy game: defend your civilization by building cities and train lines before the bombardments arrive. [Explore the submission](https://pinestore.cc/jam/pinejam2026/submissions/259/bombastic-island).
-</details>
-
-</details>
+> **PineJam 2026 results are in.**
+> Explore the winners and the PineJam 2024-2026 archive in the [PineJams results](#pinejams).
 
 <details>
 <summary>📑 Table of Contents</summary>
@@ -82,6 +27,7 @@ A tabletop-inspired strategy game: defend your civilization by building cities a
   - [Mods](#mods)
   - [Datapacks](#datapacks)
 - [External tools, websites and events](#external-tools-websites-and-events)
+- [PineJams](#pinejams)
 - [Programs](#programs)
   - [Storage, Turtles, and Peripherals](#storage-turtles-and-peripherals)
   - [Utility](#utility)
@@ -94,7 +40,6 @@ A tabletop-inspired strategy game: defend your civilization by building cities a
 - [Operating Systems](#operating-systems)
   - [Graphical Operating Systems](#graphical-operating-systems)
   - [Headless Operating Systems](#headless-operating-systems)
-- [XCC](#xcc)
 - [Awesome People](#awesome-people)
 - [Awesome Communities](#awesome-communities)
 - [Credits](#credits)
@@ -458,10 +403,6 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1348882886761123870)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Ben-Brady/cc-manager-3)
 
-- [PineJam](https://pinestore.cc/jam) by [Xella](https://github.com/Xella37) - PineJam is an annual ComputerCraft-themed game jam hosted on PineStore, where participants create ComputerCraft-related projects around a central theme (like "FLOW" in 2024 or "VEHICLES" in 2025), judged on creativity, design, appeal, and how well they honor the theme.
-
-    [![Badge](https://img.shields.io/badge/🍯_Jam-list-red?logoColor=white)](https://pinestore.cc/jam)
-
 - [CC: Blockly Editor](https://pinestore.cc/projects/72/cc-blockly-editor) by [st sarxzer XI](https://pinestore.cc/user/687947852478939188) - a visual code editor for ComputerCraft and ComputerCraft:Tweaked. This Blockly application allows you to create Lua scripts for ComputerCraft using a visual block-based interface.
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/72/cc-blockly-editor)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Sarxzer/cc-blockly-editor)
@@ -477,10 +418,6 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 - [CCSharp](https://github.com/monkeymanboy/CCSharp) by [monkeymanboy](https://github.com/monkeymanboy) - C# to lua transpiler for ComputerCraft.
 
   [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1442339850169876551)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/monkeymanboy/CCSharp)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/monkeymanboy/CCSharp/tree/master/docs)
-
-- [XCC](#xcc) by [Shlomo1412](https://github.com/Shlomo1412) - A comprehensive web-based development suite for CC: Tweaked.
-
-    [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/197/the-xcc-project)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1411412232016761017)  [![Badge](https://img.shields.io/badge/🌐_Visit-Website-yellow?logoColor=white)](https://shlomo1412.github.io/XCC)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/XCC)  [![Badge](https://img.shields.io/badge/View-Section-lightgrey?logo=markdown)](#xcc)
 
 <div align="right">
   <a href="#top">
@@ -764,31 +701,48 @@ Easy to use with a neat UI, and ten pretty themes!
   </a>
 </div>
 
-<table width="100%">
-  <tr>
-    <td><h2 id="xcc">XCC</h2></td>
-    <td align="right">
-      <img src="https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white" alt="Recommended Badge">
-    </td>
-  </tr>
-</table>
+## PineJams
 
-[![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/197/the-xcc-project)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1411412232016761017)  [![Badge](https://img.shields.io/badge/🌐_Visit-Website-yellow?logoColor=white)](https://shlomo1412.github.io/XCC)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/XCC)
+[PineJam](https://pinestore.cc/jam) is PineStore's annual ComputerCraft game jam. Browse the [complete jam archive](https://pinestore.cc/jam).
 
-> A comprehensive web-based development suite for **CC: Tweaked** by [Shlomo1412](https://github.com/Shlomo1412). This project provides a toolset to streamline ComputerCraft application development.
+<details>
+<summary><strong>PineJam 2026</strong> - TABLETOP and DEMOSCENE</summary>
 
-**XCC** includes UI generator with support for multiple UI frameworks ([Basalt](https://basalt.madefor.cc/), [PixelUI](https://shlomo1412.github.io/pixelui-website/), and [PrimeUI](https://mcjack123.github.io/PrimeUI/)), advanced components like `TreeView` and `Chart` widgets, and a dedicated NFP picture editor. The toolset generates clean, production-ready `Lua`/`XML`/`JSON`/`XCC` code and supports project management through our custom `.xcc` file format.
+<p align="center"><a href="https://pinestore.cc/jam/pinejam2026/submissions"><strong>View all 2026 submissions and results</strong></a></p>
 
-**The project is now available as an open-source solution for CC: Tweaked developers.**
+<p align="center">
+        <a href="https://pinestore.cc/user/176749952641400833"><img src="https://pinestore.cc/pfp/176749952641400833.png" alt="SirEdvin" width="84" height="84" style="border-radius: 50%;"></a>
+        <a href="https://pinestore.cc/user/1153273351129800764"><img src="https://pinestore.cc/pfp/1153273351129800764.png" alt="Shlomo" width="84" height="84" style="border-radius: 50%;"></a>
+        <a href="https://pinestore.cc/user/862377905891966985"><img src="https://pinestore.cc/pfp/862377905891966985.png" alt="sunflowerthomas" width="84" height="84" style="border-radius: 50%;"></a>
+        <a href="https://pinestore.cc/user/508577166405926913"><img src="https://pinestore.cc/pfp/508577166405926913.png" alt="dev9551" width="84" height="84" style="border-radius: 50%;"></a>
+        <a href="https://pinestore.cc/user/236628809158230018"><img src="https://pinestore.cc/pfp/236628809158230018.png" alt="Fatboychummy" width="84" height="84" style="border-radius: 50%;"></a>
+</p>
 
-As always, feedback is welcome. Feel free to point out bugs, open issues, and suggest a feature/new tool.
+<div align="center"><details><summary><strong>1st Place: 4th Dimension</strong> - 8.67 / 10</summary><br><a href="https://pinestore.cc/projects/256/4th-dimension"><img src="https://pinestore.cc/project/256/thumbnail_full.webp" alt="4th Dimension thumbnail" width="680"></a></details></div>
+<div align="center"><details><summary><strong>2nd Place: Forever Testing</strong> - 8.37 / 10</summary><br><a href="https://pinestore.cc/projects/257/forever-testing"><img src="https://pinestore.cc/project/257/thumbnail_full.webp" alt="Forever Testing thumbnail" width="680"></a></details></div>
+<div align="center"><details><summary><strong>3rd Place: Jane Demo</strong> - 7.90 / 10</summary><br><a href="https://pinestore.cc/projects/255/jane-demo"><img src="https://pinestore.cc/project/255/thumbnail_full.webp" alt="Jane Demo thumbnail" width="680"></a></details></div>
+</details>
 
-### Current Tools
+<details>
+<summary><strong>PineJam 2025</strong> - VEHICLES</summary>
 
-- Basalt UI Designer
-- PixelUI UI Designer
-- PrimeUI UI Designer
-- NFP (CC's image format) Editor
+<p align="center"><a href="https://pinestore.cc/jam/pinejam2025/submissions"><strong>View all 2025 submissions and results</strong></a></p>
+
+<div align="center"><details><summary><strong>1st Place: Crazy Cargo Crusade</strong> - 8.92 / 10</summary><br><a href="https://pinestore.cc/projects/185/crazy-cargo-crusade"><img src="https://pinestore.cc/project/185/thumbnail_full.webp" alt="Crazy Cargo Crusade thumbnail" width="680"></a></details></div>
+<div align="center"><details><summary><strong>2nd Place: Racing Game</strong> - 8.17 / 10</summary><br><a href="https://pinestore.cc/projects/167/racing-game"><img src="https://pinestore.cc/project/167/thumbnail_full.webp" alt="Racing Game thumbnail" width="680"></a></details></div>
+<div align="center"><details><summary><strong>3rd Place: Spamton's Jump</strong> - 8.00 / 10</summary><br><a href="https://pinestore.cc/projects/186/spamton-s-jump"><img src="https://pinestore.cc/project/186/thumbnail_full.webp" alt="Spamton's Jump thumbnail" width="680"></a></details></div>
+</details>
+
+<details>
+<summary><strong>PineJam 2024</strong> - FLOW</summary>
+
+<p align="center"><a href="https://pinestore.cc/jam/pinejam2024/submissions"><strong>View all 2024 submissions and results</strong></a></p>
+
+<div align="center"><details><summary><strong>1st Place: Aquatic Tide</strong> - 8.00 / 10</summary><br><a href="https://pinestore.cc/projects/97/aquatic-tide"><img src="https://pinestore.cc/project/97/thumbnail_full.webp" alt="Aquatic Tide thumbnail" width="680"></a></details></div>
+<div align="center"><details><summary><strong>2nd Place: WaveFlow Visualizer</strong> - 7.70 / 10</summary><br><a href="https://pinestore.cc/projects/99/waveflow-visualizer"><img src="https://pinestore.cc/project/99/thumbnail_full.webp" alt="WaveFlow Visualizer thumbnail" width="680"></a></details></div>
+<div align="center"><details><summary><strong>Tied 3rd Place: Pool2</strong> - 5.35 / 10</summary><br><a href="https://pinestore.cc/projects/100/pool2"><img src="https://pinestore.cc/project/100/thumbnail_full.webp" alt="Pool2 thumbnail" width="680"></a></details></div>
+<div align="center"><details><summary><strong>Tied 3rd Place: Cobblestone Generator Builder</strong> - 5.35 / 10</summary><br><a href="https://pinestore.cc/projects/98/cobblestone-generator-builder"><img src="https://pinestore.cc/project/98/thumbnail_full.webp" alt="Cobblestone Generator Builder thumbnail" width="680"></a></details></div>
+</details>
 
 <div align="right">
   <a href="#top">
