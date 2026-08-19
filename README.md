@@ -9,6 +9,61 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 > 👉 You can register for the event and submit your entries at the official [PineJam 2026 Sign-up Page](https://pinestore.cc/jam/pinejam2026).
 
 <details>
+<summary><strong>View Results</strong></summary>
+
+<br>
+
+<h2 align="center">PineJam 2026</h2>
+
+<p align="center">
+    <a href="https://pinestore.cc/jam/pinejam2026/submissions"><strong>View all submissions and results</strong></a>
+</p>
+
+<h3 align="center">Judges</h3>
+
+<p align="center">
+    <a href="https://pinestore.cc/user/176749952641400833"><img src="https://pinestore.cc/pfp/176749952641400833.png" alt="SirEdvin" width="84" height="84"></a>
+    <a href="https://pinestore.cc/user/1153273351129800764"><img src="https://pinestore.cc/pfp/1153273351129800764.png" alt="Shlomo" width="84" height="84"></a>
+    <a href="https://pinestore.cc/user/862377905891966985"><img src="https://pinestore.cc/pfp/862377905891966985.png" alt="sunflowerthomas" width="84" height="84"></a>
+    <a href="https://pinestore.cc/user/508577166405926913"><img src="https://pinestore.cc/pfp/508577166405926913.png" alt="dev9551" width="84" height="84"></a>
+    <a href="https://pinestore.cc/user/236628809158230018"><img src="https://pinestore.cc/pfp/236628809158230018.png" alt="Fatboychummy" width="84" height="84"></a>
+    <br>
+    <sub>SirEdvin &nbsp;&nbsp;&nbsp;&nbsp; Shlomo &nbsp;&nbsp;&nbsp;&nbsp; sunflowerthomas &nbsp;&nbsp;&nbsp;&nbsp; dev9551 &nbsp;&nbsp;&nbsp;&nbsp; Fatboychummy</sub>
+</p>
+
+<h3 align="center">Winning Projects</h3>
+
+<details>
+<summary><strong>1st Place: Forever Testing</strong> - 8.37 / 10</summary>
+
+<br>
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=NO5hZH-xOcI"><img src="https://img.youtube.com/vi/NO5hZH-xOcI/maxresdefault.jpg" alt="Forever Testing video preview" width="680"></a>
+</p>
+
+A Portal-inspired demoscene built with PinePix and Pine3D, featuring real-time portal rendering and a generated MIDI soundtrack. [Explore the submission](https://pinestore.cc/jam/pinejam2026/submissions/257/forever-testing).
+</details>
+
+<details>
+<summary><strong>2nd Place: Jane Demo</strong> - 7.90 / 10</summary>
+
+A 38-second ComputerCraft demo combining Pine3D, Blender animation, and "Jane" by The Long Faces. [Explore the submission](https://pinestore.cc/jam/pinejam2026/submissions/255/jane-demo).
+</details>
+
+<details>
+<summary><strong>3rd Place: Bombastic Island</strong> - 7.70 / 10</summary>
+
+<br>
+<p align="center">
+    <a href="https://pinestore.cc/jam/pinejam2026/submissions/259/bombastic-island"><img src="https://pinestore.cc/project/259/image_0.webp" alt="Bombastic Island screenshot" width="680"></a>
+</p>
+
+A tabletop-inspired strategy game: defend your civilization by building cities and train lines before the bombardments arrive. [Explore the submission](https://pinestore.cc/jam/pinejam2026/submissions/259/bombastic-island).
+</details>
+
+</details>
+
+<details>
 <summary>📑 Table of Contents</summary>
 
 - [Libraries](#libraries)
