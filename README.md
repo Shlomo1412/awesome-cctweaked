@@ -5,8 +5,8 @@
 A curated list of awesome resources, libraries, programs, tutorials, and projects for [CC:Tweaked](https://modrinth.com/mod/cc-tweaked), modern ComputerCraft fork for Minecraft.
 
 > [!TIP]
-> **PineJam 2026 has started!**
-> 👉 You can register for the event and submit your entries at the official [PineJam 2026 Sign-up Page](https://pinestore.cc/jam/pinejam2026).
+> **PineJam 2026 is over!**
+> 👀 You can view the winners and the other submissions at the official [PineJam 2026 Page](https://pinestore.cc/jam/pinejam2026/submissions).
 
 <details>
 <summary><strong>View Results</strong></summary>
@@ -99,7 +99,7 @@ A tabletop-inspired strategy game: defend your civilization by building cities a
 - [Awesome Communities](#awesome-communities)
 - [Credits](#credits)
   - [Author](#author-shlomo1412)
-  - [People Who Helped](#people-who-helped)
+  - [Special Thanks](#special-thanks)
   - [Contributors](#contributors)
   - [Tools Used](#tools-used)
   - [Sources Used](#sources-used)
@@ -501,7 +501,7 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1061830961479831602)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Storehaus/CC-MISC)
 
 > [!NOTE]
-> MISC is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
+> [MISC](https://github.com/Storehaus/CC-MISC) is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
 
 - [Turtle 3D Printer (C#)](https://discord.com/channels/477910221872824320/1158042129776508928) by [L3velDr4in](https://github.com/pre-alpha-final) - Print from png blueprints or scan terrain and reprint.
 
@@ -529,6 +529,9 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1402258043781124117)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/181/pixelcode-pixelui-demo-)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua)
+  
+> [!WARNING]
+> [PixelCode](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua) is archived.
 
 - [CONSULT](https://consult.madefor.cc/) by [Sammy](https://github.com/SammyForReal) - A Lua editor that provides a modern user interface for CraftOS (and anything based on it).
 
@@ -539,6 +542,10 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1277470936588877865)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/114/shrekword)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/ShrekshellraiserCC/shrekword)
+
+- [SpriteMog 1.2](https://pastebin.com/iHpQhwvy) by Kazza - Feature-filled Sprite Maker.
+
+  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1536082499342573689)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/iHpQhwvy)
 
 ### Games
 
@@ -625,6 +632,10 @@ JUMP HIGHER AND HIGHER UNTIL YOU [[die]]. *(<- Not even kidding. That's the orig
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/167/racing-game)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/remie92/Computer-Racer)
 
+- [Bombastic Island](https://pinestore.cc/projects/259/bombastic-island) by [hexell_dessin](https://pinestore.cc/user/314366180624171008) (aka. hexell_dev, [hexelll](https://github.com/hexelll)) and [TO](https://pinestore.cc/user/574661026927214595) - You are trying to keep your civilisation from collapsing under ennemy fire by creating new cities and train lines.
+
+  [![Badge](https://img.shields.io/badge/PineJam_2026_Entry-success?labelColor=287635)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/259/bombastic-island)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535586261828374588)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/hexelll/pinejam2026)
+
 ### Audio/Video Players
 
 - [YouCube](https://discord.com/channels/477910221872824320/1036382245516214302) by Commandcracker - a tool that streams dfpwm files to ComputerCraft: Tweaked. The YouCube server uses yt-dlp and yt-dlp/FFmpeg to provide media from services like YouTube as dfpwm files.
@@ -690,6 +701,18 @@ Easy to use with a neat UI, and ten pretty themes!
 - [Minecraft IRL Weather](https://pinestore.cc/projects/140/minecraft-irl-weather) by [Tom](https://pinestore.cc/user/787626842684915742) - An IRL weather app for minecraft, Computercraft
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/140/minecraft-irl-weather)
+
+- [Jane Demo](https://github.com/piguman3/PineJam2026Demo) by [piguman3](https://github.com/piguman3) - A really tiny 38 second demo.
+
+  [![3rd](https://img.shields.io/badge/3rd-PineJam_2026_Winner-287635?labelColor=orange&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTc2IDEzNmMwIDIyLjA5LTE3LjkxIDQwLTQwIDQwYy0uMjQ4IDAtLjQ1NTEtLjEyNjYtLjcwMzEtLjEzMDVsLTUwLjUyIDI3Ny45QzQ4MiA0NjguOSA0NjguOCA0ODAgNDUzLjMgNDgwSDEyMi43Yy0xNS40NiAwLTI4LjcyLTExLjA2LTMxLjQ4LTI2LjI3TDQwLjcxIDE3NS45QzQwLjQ2IDE3NS45IDQwLjI1IDE3NiAzOS4xIDE3NmMtMjIuMDkgMC00MC0xNy45MS00MC00MFMxNy45MSA5NiAzOS4xIDk2czQwIDE3LjkxIDQwIDQwYzAgOC45OTgtMy41MjEgMTYuODktOC41MzcgMjMuNTdsODkuNjMgNzEuN2MxNS45MSAxMi43MyAzOS41IDcuNTQ0IDQ4LjYxLTEwLjY4bDU3LjYtMTE1LjJDMjU1LjEgOTguMzQgMjQ3LjEgODYuMzQgMjQ3LjEgNzJDMjQ3LjEgNDkuOTEgMjY1LjkgMzIgMjg4IDMyczM5LjEgMTcuOTEgMzkuMSA0MGMwIDE0LjM0LTcuOTYzIDI2LjM0LTE5LjMgMzMuNGw1Ny42IDExNS4yYzkuMTExIDE4LjIyIDMyLjcxIDIzLjQgNDguNjEgMTAuNjhsODkuNjMtNzEuN0M0OTkuNSAxNTIuOSA0OTYgMTQ0LjEgNDk2IDEzNkM0OTYgMTEzLjkgNTEzLjkgOTYgNTM2IDk2UzU3NiAxMTMuOSA1NzYgMTM2eiIvPjwvc3ZnPg==)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/255/jane-demo)  [![Badge](https://img.shields.io/badge/Discord-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535501025530617877)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/piguman3/PineJam2026Demo)
+
+- [4th Dimension](https://github.com/MCJack123/4thDimension) by [JackMacWindows (aka. JackMC123/MCJack123)](https://github.com/MCJack123) - Welcome to the 4th Dimension.
+
+  [![1st](https://img.shields.io/badge/1st-PineJam_2026_Winner-287635?labelColor=success&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTc2IDEzNmMwIDIyLjA5LTE3LjkxIDQwLTQwIDQwYy0uMjQ4IDAtLjQ1NTEtLjEyNjYtLjcwMzEtLjEzMDVsLTUwLjUyIDI3Ny45QzQ4MiA0NjguOSA0NjguOCA0ODAgNDUzLjMgNDgwSDEyMi43Yy0xNS40NiAwLTI4LjcyLTExLjA2LTMxLjQ4LTI2LjI3TDQwLjcxIDE3NS45QzQwLjQ2IDE3NS45IDQwLjI1IDE3NiAzOS4xIDE3NmMtMjIuMDkgMC00MC0xNy45MS00MC00MFMxNy45MSA5NiAzOS4xIDk2czQwIDE3LjkxIDQwIDQwYzAgOC45OTgtMy41MjEgMTYuODktOC41MzcgMjMuNTdsODkuNjMgNzEuN2MxNS45MSAxMi43MyAzOS41IDcuNTQ0IDQ4LjYxLTEwLjY4bDU3LjYtMTE1LjJDMjU1LjEgOTguMzQgMjQ3LjEgODYuMzQgMjQ3LjEgNzJDMjQ3LjEgNDkuOTEgMjY1LjkgMzIgMjg4IDMyczM5LjEgMTcuOTEgMzkuMSA0MGMwIDE0LjM0LTcuOTYzIDI2LjM0LTE5LjMgMzMuNGw1Ny42IDExNS4yYzkuMTExIDE4LjIyIDMyLjcxIDIzLjQgNDguNjEgMTAuNjhsODkuNjMtNzEuN0M0OTkuNSAxNTIuOSA0OTYgMTQ0LjEgNDk2IDEzNkM0OTYgMTEzLjkgNTEzLjkgOTYgNTM2IDk2UzU3NiAxMTMuOSA1NzYgMTM2eiIvPjwvc3ZnPg==)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/256/4th-dimension)  [![Badge](https://img.shields.io/badge/Discord-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1535480966771118221)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/MCJack123/4thDimension)
+
+- [Forever Testing](https://pinestore.cc/jam/pinejam2026/submissions/257/forever-testing) by [Minki (the Avali)](https://pinestore.cc/user/692475721544630272) - A CCT Demo.
+
+  [![2nd](https://img.shields.io/badge/2nd-PineJam_2026_Winner-287635?labelColor=informational&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNTc2IDEzNmMwIDIyLjA5LTE3LjkxIDQwLTQwIDQwYy0uMjQ4IDAtLjQ1NTEtLjEyNjYtLjcwMzEtLjEzMDVsLTUwLjUyIDI3Ny45QzQ4MiA0NjguOSA0NjguOCA0ODAgNDUzLjMgNDgwSDEyMi43Yy0xNS40NiAwLTI4LjcyLTExLjA2LTMxLjQ4LTI2LjI3TDQwLjcxIDE3NS45QzQwLjQ2IDE3NS45IDQwLjI1IDE3NiAzOS4xIDE3NmMtMjIuMDkgMC00MC0xNy45MS00MC00MFMxNy45MSA5NiAzOS4xIDk2czQwIDE3LjkxIDQwIDQwYzAgOC45OTgtMy41MjEgMTYuODktOC41MzcgMjMuNTdsODkuNjMgNzEuN2MxNS45MSAxMi43MyAzOS41IDcuNTQ0IDQ4LjYxLTEwLjY4bDU3LjYtMTE1LjJDMjU1LjEgOTguMzQgMjQ3LjEgODYuMzQgMjQ3LjEgNzJDMjQ3LjEgNDkuOTEgMjY1LjkgMzIgMjg4IDMyczM5LjEgMTcuOTEgMzkuMSA0MGMwIDE0LjM0LTcuOTYzIDI2LjM0LTE5LjMgMzMuNGw1Ny42IDExNS4yYzkuMTExIDE4LjIyIDMyLjcxIDIzLjQgNDguNjEgMTAuNjhsODkuNjMtNzEuN0M0OTkuNSAxNTIuOSA0OTYgMTQ0LjEgNDk2IDEzNkM0OTYgMTEzLjkgNTEzLjkgOTYgNTM2IDk2UzU3NiAxMTMuOSA1NzYgMTM2eiIvPjwvc3ZnPg==)](https://pinestore.cc/jam/pinejam2026/submissions)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/257/forever-testing)  [![Badge](https://img.shields.io/badge/Open-Source-blue?logo=codeberg&logoColor=white)](https://codeberg.org/mueller_minki/ForeverTesting)
 
 <div align="right">
   <a href="#top">
