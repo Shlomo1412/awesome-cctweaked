@@ -703,7 +703,7 @@ Easy to use with a neat UI, and ten pretty themes!
 
 ## PineJams
 
-[PineJam](https://pinestore.cc/jam) is PineStore's annual ComputerCraft game jam. Browse the [complete jam archive](https://pinestore.cc/jam).
+[PineJam](https://pinestore.cc/jam) is PineStore's annual ComputerCraft jam. Browse the [complete jam archive](https://pinestore.cc/jam).
 
 <details>
 <summary><strong>PineJam 2026</strong> - TABLETOP and DEMOSCENE</summary>
