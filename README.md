@@ -6,7 +6,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
 > [!TIP]
 > **PineJam 2026 results are in.**
-> Explore the winners and the PineJam 2024-2026 archive in the [PineJams results](#pinejams).
+> Explore the winners and the PineJam 2024-2026 archive in the [PineJams results](#pinejams) section.
 
 <details>
 <summary>📑 Table of Contents</summary>
@@ -728,6 +728,13 @@ Easy to use with a neat UI, and ten pretty themes!
 
 <p align="center"><a href="https://pinestore.cc/jam/pinejam2025/submissions"><strong>View all 2025 submissions and results</strong></a></p>
 
+<p align="center">
+    <a href="https://pinestore.cc/user/259973943060856833"><img src="https://pinestore.cc/pfp/259973943060856833.png" alt="Emma" width="84" height="84" style="border-radius: 50%;"></a>
+    <a href="https://pinestore.cc/user/229987409977278464"><img src="https://pinestore.cc/pfp/229987409977278464.png" alt="shadyduck" width="84" height="84" style="border-radius: 50%;"></a>
+    <a href="https://pinestore.cc/user/1145437228630298716"><img src="https://pinestore.cc/pfp/1145437228630298716.png" alt="Roachcock" width="84" height="84" style="border-radius: 50%;"></a>
+    <a href="https://pinestore.cc/user/508577166405926913"><img src="https://pinestore.cc/pfp/508577166405926913.png" alt="dev9551" width="84" height="84" style="border-radius: 50%;"></a>
+</p>
+
 <div align="center"><details><summary><strong>1st Place: Crazy Cargo Crusade</strong> - 8.92 / 10</summary><br><a href="https://pinestore.cc/projects/185/crazy-cargo-crusade"><img src="https://pinestore.cc/project/185/thumbnail_full.webp" alt="Crazy Cargo Crusade thumbnail" width="680"></a></details></div>
 <div align="center"><details><summary><strong>2nd Place: Racing Game</strong> - 8.17 / 10</summary><br><a href="https://pinestore.cc/projects/167/racing-game"><img src="https://pinestore.cc/project/167/thumbnail_full.webp" alt="Racing Game thumbnail" width="680"></a></details></div>
 <div align="center"><details><summary><strong>3rd Place: Spamton's Jump</strong> - 8.00 / 10</summary><br><a href="https://pinestore.cc/projects/186/spamton-s-jump"><img src="https://pinestore.cc/project/186/thumbnail_full.webp" alt="Spamton's Jump thumbnail" width="680"></a></details></div>
@@ -737,6 +744,14 @@ Easy to use with a neat UI, and ten pretty themes!
 <summary><strong>PineJam 2024</strong> - FLOW</summary>
 
 <p align="center"><a href="https://pinestore.cc/jam/pinejam2024/submissions"><strong>View all 2024 submissions and results</strong></a></p>
+
+<p align="center">
+    <a href="https://pinestore.cc/user/1145437228630298716"><img src="https://pinestore.cc/pfp/1145437228630298716.png" alt="Roachcock" width="84" height="84" style="border-radius: 50%;"></a>
+    <a href="https://pinestore.cc/user/229987409977278464"><img src="https://pinestore.cc/pfp/229987409977278464.png" alt="shadyduck" width="84" height="84" style="border-radius: 50%;"></a>
+    <a href="https://pinestore.cc/user/259973943060856833"><img src="https://pinestore.cc/pfp/259973943060856833.png" alt="Emma" width="84" height="84" style="border-radius: 50%;"></a>
+    <a href="https://pinestore.cc/user/508577166405926913"><img src="https://pinestore.cc/pfp/508577166405926913.png" alt="dev9551" width="84" height="84" style="border-radius: 50%;"></a>
+    <a href="https://pinestore.cc/user/943537773586026496"><img src="https://pinestore.cc/pfp/943537773586026496.png" alt="ssh2" width="84" height="84" style="border-radius: 50%;"></a>
+</p>
 
 <div align="center"><details><summary><strong>1st Place: Aquatic Tide</strong> - 8.00 / 10</summary><br><a href="https://pinestore.cc/projects/97/aquatic-tide"><img src="https://pinestore.cc/project/97/thumbnail_full.webp" alt="Aquatic Tide thumbnail" width="680"></a></details></div>
 <div align="center"><details><summary><strong>2nd Place: WaveFlow Visualizer</strong> - 7.70 / 10</summary><br><a href="https://pinestore.cc/projects/99/waveflow-visualizer"><img src="https://pinestore.cc/project/99/thumbnail_full.webp" alt="WaveFlow Visualizer thumbnail" width="680"></a></details></div>
