@@ -2,7 +2,11 @@
 
 [![Awesome CC: Tweaked](https://img.shields.io/badge/Awesome-CC%3A%20Tweaked-blue?logo=awesome-lists)](https://tweaked.cc/)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/cc-tweaked)  [![Badge](https://img.shields.io/badge/A_fork_of-ComputerCraft-ba3636?logo=greasyfork&logoColor=white)](https://modrinth.com/mod/computercraft)  [![Badge](https://img.shields.io/badge/Oh,_and_it's_also-Open_Source-000000?logo=github&logoColor=white)](https://github.com/cc-tweaked/CC-Tweaked/)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://tweaked.cc/)
 
-A curated list of awesome resources, libraries, programs, tutorials, and projects for [CC:Tweaked](https://modrinth.com/mod/cc-tweaked), modern ComputerCraft fork for Minecraft.[^1]
+A curated list of awesome resources, libraries, programs, tutorials, and projects for [CC:Tweaked](https://modrinth.com/mod/cc-tweaked), modern ComputerCraft fork for Minecraft.
+
+> [!TIP]
+> **PineJam 2026 results are in.**
+> Explore the winners and the PineJam 2024-2026 archive in the [PineJams results](#pinejams) section.
 
 <details>
 <summary>📑 Table of Contents</summary>
@@ -55,7 +59,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     ![Badge](https://img.shields.io/badge/-Recommended-success?logo=googletasks&logoColor=white)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://basalt.madefor.cc/guides/getting-started.html) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Pyroxenium/Basalt2)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.gg/dvpd49Zxf7)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020664889666179073)  [![DeepWiki](https://img.shields.io/badge/DeepWiki-Pyroxenium%2FBasalt2-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/Pyroxenium/Basalt2)
 
-- [PixelUI](https://shlomo1412.github.io/pixelui-website/) by [Shlomo1412](https://github.com/Shlomo1412) *(Hey, it's me!)* - New UI Framework, currently on beta. Very fast, well documented, and containing *a lot* of features.[^2]
+- [PixelUI](https://shlomo1412.github.io/pixelui-website/) by [Shlomo1412](https://github.com/Shlomo1412) *(Hey, it's me!)* - New UI Framework, currently on beta. Very fast, well documented, and containing *a lot* of features.[^1]
 
     [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://shlomo1412.github.io/pixelui-website/) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/PixelUI)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1390010384798187570)  [![DeepWiki](https://img.shields.io/badge/DeepWiki-Shlomo1412%2FPixelUI-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/Shlomo1412/PixelUI)
 
@@ -235,7 +239,7 @@ A curated list of awesome resources, libraries, programs, tutorials, and project
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/toms-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/toms-peripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/tom5454/Toms-Peripherals/wiki)  [![Badge](https://img.shields.io/badge/Donate_on-Patreon-000000?logo=Patreon&logoColor=white)](https://www.patreon.com/tom5454)  [![Badge](https://img.shields.io/badge/Donate_on-Ko--Fi-critical?logo=kofi&logoColor=white)](https://ko-fi.com/tom5454)  [![Badge](https://img.shields.io/badge/❤️_Sponsor_on-GitHub-000000?logoColor=white)](https://github.com/sponsors/tom5454) [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tom5454/Toms-Peripherals)
 
-- [CC: DirectGPU](https://github.com/tiktop101/CC-DirectGPU-Mod) by tom (aka. [tiktop101](https://github.com/tiktop101)) - High-performance ComputerCraft peripheral for rendering full RGB graphics directly to monitors.[^3]
+- [CC: DirectGPU](https://github.com/tiktop101/CC-DirectGPU-Mod) by tom (aka. [tiktop101](https://github.com/tiktop101)) - High-performance ComputerCraft peripheral for rendering full RGB graphics directly to monitors.[^2]
 
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/tiktop101/CC-DirectGPU-Mod)  [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1432013639132647455)  [![Badge](https://img.shields.io/badge/Get_it_on-GitHub-black?logo=github)](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar)
 
@@ -264,7 +268,7 @@ Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies t
 
   [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1525079580136706058)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/lakes-cc-additions)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/lakehouse445/lakes-cc-additions)
 
-- [SwitchCraft Peripherals](https://modrinth.com/mod/sc-peripherals) by [Lemmmy](https://modrinth.com/user/Lemmmy) - Custom peripherals for the SwitchCraft server, including 3D Printers in the style of OpenComputers.[^4]
+- [SwitchCraft Peripherals](https://modrinth.com/mod/sc-peripherals) by [Lemmmy](https://modrinth.com/user/Lemmmy) - Custom peripherals for the SwitchCraft server, including 3D Printers in the style of OpenComputers.[^3]
 
     [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/mod/sc-peripherals)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/sc-peripherals)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://docs.sc3.io/features/sc-peripherals.html)  [![Badge](https://img.shields.io/badge/Join_its-Discord-informational?logo=discord&logoColor=white)](https://discord.com/invite/JxM3NxZ)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SwitchCraftCC/sc-peripherals)
 
@@ -359,7 +363,7 @@ Addon for CC:Tweaked that adds the "Embedded Computer" and a few other goodies t
 ### Datapacks
 
 - [CC: Advanced Math](https://github.com/TechTastic/Advanced-Math) by [TechTastic](https://github.com/TechTastic/) - So [TechTastic](https://github.com/TechTastic/), after the making of the [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), realized he could also do Matrices. Then he made his own [PID controller](https://discord.com/channels/477910221872824320/1440340840625995889).
-Then he had an epiphany. Why not combine these advanced mathematical libraries into one singular datapack?[^5][^6]
+Then he had an epiphany. Why not combine these advanced mathematical libraries into one singular datapack?[^4][^5]
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1440587036988805203)  [![Badge](https://img.shields.io/badge/Get_it_on-Modrinth-brightgreen?logo=modrinth&logoColor=white)](https://modrinth.com/datapack/advanced_math)  [![Badge](https://img.shields.io/badge/Get_it_on-CurseForge-red?logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/data-packs/advanced-math)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://techtastic.github.io/Advanced-Math/index.html)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/TechTastic/Advanced-Math)
 
@@ -413,7 +417,7 @@ Then he had an epiphany. Why not combine these advanced mathematical libraries i
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020799884334477467)  [![Badge](https://img.shields.io/badge/Open-Source-yellow?logo=pastebin&logoColor=white)](https://pastebin.com/H2ArwWM1)
 
-- [MISC](https://github.com/Storehaus/CC-MISC) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - Modular Item Storage and Crafting system.[^7]
+- [MISC](https://github.com/Storehaus/CC-MISC) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - Modular Item Storage and Crafting system.[^6]
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1061830961479831602)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Storehaus/CC-MISC)
 
@@ -439,7 +443,7 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
 
 ### (Code) Editors
 
-- [PixelCode](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua) by [Shlomo](https://github.com/Shlomo1412) (Yo, that's me again!) - A simple code editor app made to demo PixelUI framework abilities.[^8]
+- [PixelCode](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua) by [Shlomo](https://github.com/Shlomo1412) (Yo, that's me again!) - A simple code editor app made to demo PixelUI framework abilities.[^7]
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1402258043781124117)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/181/pixelcode-pixelui-demo-)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua)
@@ -510,7 +514,7 @@ JUMP HIGHER AND HIGHER UNTIL YOU [[die]]. *(<- Not even kidding. That's the orig
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/144/mine-clicker)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/Sparkwave2/mine-clicker)
 
-- [Car Dating Simulator](https://pinestore.cc/projects/184/car-dating-simulator) by [piguman3](https://pinestore.cc/user/703386375554334800) - *description contains inappropriate words.*[^9]
+- [Car Dating Simulator](https://pinestore.cc/projects/184/car-dating-simulator) by [piguman3](https://pinestore.cc/user/703386375554334800) - *description contains inappropriate words.*[^8]
 
     [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/184/car-dating-simulator)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/piguman3/CarDatingSimBrainfuckPineJam2025EditionLimited)
@@ -848,13 +852,12 @@ Easy to use with a neat UI, and ten pretty themes!
   </a>
 </div>
 
-[^1]: **PineJam 2026 results are in.** Explore the winners and the PineJam 2024-2026 archive in the [PineJams results](#pinejams) section.
-[^2]: This library is archived since the release of the new and improved version. See next entry.
-[^3]: This mod is currently only avilable to download from [this post](https://discord.com/channels/477910221872824320/143201363913264745) or from its [GitHub Repo](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar).
-[^4]: This mod is archived.
-[^5]: This is a combination of [TechTastic](https://github.com/TechTastic/Advanced-Math)'s 3 projects:  
+[^1]: This library is archived since the release of the new and improved version. See next entry.
+[^2]: This mod is currently only avilable to download from [this post](https://discord.com/channels/477910221872824320/143201363913264745) or from its [GitHub Repo](https://github.com/tiktop101/CC-DirectGPU-Mod/blob/main/directgpu-1.0.0.jar).
+[^3]: This mod is archived.
+[^4]: This is a combination of [TechTastic](https://github.com/TechTastic/Advanced-Math)'s 3 projects:  
         [PID controller](https://discord.com/channels/477910221872824320/1440340840625995889), [Quaternion API](https://discord.com/channels/477910221872824320/1415458889847279677), and Matrices API.
-[^6]: All of the 3 projects above was created with the help of [getItemFromBlock](https://github.com/getItemFromBlock), and the "Spark" came from [me](https://github.com/Shlomo1412), though [tastic](https://github.com/TechTastic/Advanced-Math) ended up not using my code.
-[^7]: [MISC](https://github.com/Storehaus/CC-MISC) is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
-[^8]: [PixelCode](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua) is archived.
-[^9]: This Game requires 1.8MB of storage, meaning it won't run on in-game computer unless you change the config.
+[^5]: All of the 3 projects above was created with the help of [getItemFromBlock](https://github.com/getItemFromBlock), and the "Spark" came from [me](https://github.com/Shlomo1412), though [tastic](https://github.com/TechTastic/Advanced-Math) ended up not using my code.
+[^6]: [MISC](https://github.com/Storehaus/CC-MISC) is no longer maintained by ShreksHellraiser. it's now maintained by the Storehaus group.
+[^7]: [PixelCode](https://github.com/Shlomo1412/PixelUI/blob/main/code_editor_app.lua) is archived.
+[^8]: This Game requires 1.8MB of storage, meaning it won't run on in-game computer unless you change the config.
