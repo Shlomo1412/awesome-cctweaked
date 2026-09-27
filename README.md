@@ -453,6 +453,10 @@ I will make it open source when it's complete. *(<- Yeah, that's the description
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1020666130437775481)  [![Badge](https://img.shields.io/badge/View_its-Wiki-4688af?logo=readthedocs&logoColor=white)](https://github.com/SammyForReal/CONSULT/wiki)  [![Badge](https://img.shields.io/badge/📎_View_its-Website-orange?logoColor=white)](https://consult.madefor.cc/)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/20/consult)
     [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/SammyForReal/CONSULT)
 
+- [Quark](https://github.com/aTimmYm/Quark) by ArtJem (aka. [aTimmYm](https://github.com/aTimmYm)) and braunnn - a lightweight and modern IDE for developing Lua programs in CC:Tweaked.
+
+    [![Badge](https://img.shields.io/badge/Discord-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1553378174887268504)  [![Badge](https://img.shields.io/badge/Open-Source-000000?logo=github&logoColor=white)](https://github.com/aTimmYm/Quark)
+
 - [ShrekWord](https://pinestore.cc/projects/114/shrekword) by [ShreksHellraiser](https://codeberg.org/ShreksHellraiser) - a word-like document editor for computercraft.
 
     [![Badge](https://img.shields.io/badge/Original-Post-blue?logo=discord&logoColor=white)](https://discord.com/channels/477910221872824320/1277470936588877865)  [![Badge](https://img.shields.io/badge/PineStore-Post-00C853?logo=pine64&logoColor=white)](https://pinestore.cc/projects/114/shrekword)
